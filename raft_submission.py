@@ -30,12 +30,6 @@ year={2020}
 }
 """
 
-# You can copy an official description
-_DESCRIPTION = """\
-This dataset contains a corpus of AI papers. The first task is to determine\
- whether or not a datapoint is an AI safety paper. The second task is to\
- determine what type of paper it is.
-"""
 
 # TODO: Add a link to an official homepage for the dataset here
 _HOMEPAGE = ""
@@ -70,7 +64,7 @@ class RaftSubmission(datasets.GeneratorBasedBuilder):
                 }
             )
         return datasets.DatasetInfo(
-            description=_DESCRIPTION,
+            description=self.config.description,
             features=features,
             supervised_keys=None,
             homepage=_HOMEPAGE,
