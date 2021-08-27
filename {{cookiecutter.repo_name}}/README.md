@@ -4,17 +4,21 @@ type: prediction-upload
 ---
 
 # RAFT submissions for {{cookiecutter.repo_name}}
-## Making a submission
+## Submitting to the leaderboard
 
-To make a submission, there are three main steps:
+To make a submission to the [leaderboard](https://huggingface.co/spaces/ought/raft-leaderboard), there are three main steps:
 
 1. Generate predictions on the unlabeled test set of each task
 2. Validate the predictions are compatible with the evaluation framework
 3. Push the predictions to the Hub!
 
 See the instructions below for more details.
+### Rules
 
-> ⚠️  To prevent overfitting to the public leaderboard, we only evaluate **one submission per week**. You can push predictions to the Hub as many times as you wish, but we will only evaluate the most recent commit in a given week. 
+1. To prevent overfitting to the public leaderboard, we only evaluate **one submission per week**. You can push predictions to the Hub as many times as you wish, but we will only evaluate the most recent commit in a given week. 
+2. Transfer or meta-learning using other datasets, including further pre-training on other corpora, is allowed.
+3. Use of unlabeled test data is allowed, as is it always available in the applied setting. For example, further pre-training using the unlabeled data for a task would be permitted.
+4. Systems may be augmented with information retrieved from the internet, e.g. via automated web searches.
 ### Submission file format
 
 For each task in RAFT, you should create a CSV file called `predictions.csv` with your model's predictions on the unlabeled test set. Each file should have exactly 2 columns:
@@ -87,4 +91,3 @@ git add .
 git commit -m "Some commit message"
 git push -f origin HEAD:main
 ```
-
