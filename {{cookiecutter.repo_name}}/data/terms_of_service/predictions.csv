@@ -1,0 +1,5001 @@
+ID,Label
+50,not potentially unfair
+51,potentially unfair
+52,not potentially unfair
+53,potentially unfair
+54,potentially unfair
+55,not potentially unfair
+56,not potentially unfair
+57,not potentially unfair
+58,not potentially unfair
+59,potentially unfair
+60,potentially unfair
+61,not potentially unfair
+62,not potentially unfair
+63,potentially unfair
+64,potentially unfair
+65,not potentially unfair
+66,not potentially unfair
+67,potentially unfair
+68,not potentially unfair
+69,not potentially unfair
+70,potentially unfair
+71,potentially unfair
+72,not potentially unfair
+73,not potentially unfair
+74,potentially unfair
+75,potentially unfair
+76,potentially unfair
+77,not potentially unfair
+78,potentially unfair
+79,potentially unfair
+80,not potentially unfair
+81,not potentially unfair
+82,not potentially unfair
+83,potentially unfair
+84,potentially unfair
+85,not potentially unfair
+86,potentially unfair
+87,not potentially unfair
+88,potentially unfair
+89,potentially unfair
+90,not potentially unfair
+91,potentially unfair
+92,potentially unfair
+93,potentially unfair
+94,potentially unfair
+95,potentially unfair
+96,not potentially unfair
+97,not potentially unfair
+98,potentially unfair
+99,potentially unfair
+100,not potentially unfair
+101,not potentially unfair
+102,not potentially unfair
+103,potentially unfair
+104,potentially unfair
+105,potentially unfair
+106,potentially unfair
+107,not potentially unfair
+108,not potentially unfair
+109,not potentially unfair
+110,potentially unfair
+111,not potentially unfair
+112,potentially unfair
+113,potentially unfair
+114,not potentially unfair
+115,potentially unfair
+116,potentially unfair
+117,potentially unfair
+118,not potentially unfair
+119,potentially unfair
+120,not potentially unfair
+121,not potentially unfair
+122,not potentially unfair
+123,potentially unfair
+124,not potentially unfair
+125,not potentially unfair
+126,potentially unfair
+127,not potentially unfair
+128,potentially unfair
+129,potentially unfair
+130,not potentially unfair
+131,not potentially unfair
+132,potentially unfair
+133,not potentially unfair
+134,potentially unfair
+135,potentially unfair
+136,not potentially unfair
+137,potentially unfair
+138,potentially unfair
+139,potentially unfair
+140,not potentially unfair
+141,potentially unfair
+142,not potentially unfair
+143,potentially unfair
+144,not potentially unfair
+145,potentially unfair
+146,potentially unfair
+147,not potentially unfair
+148,potentially unfair
+149,potentially unfair
+150,not potentially unfair
+151,potentially unfair
+152,not potentially unfair
+153,potentially unfair
+154,not potentially unfair
+155,potentially unfair
+156,not potentially unfair
+157,potentially unfair
+158,potentially unfair
+159,potentially unfair
+160,not potentially unfair
+161,potentially unfair
+162,not potentially unfair
+163,potentially unfair
+164,not potentially unfair
+165,not potentially unfair
+166,not potentially unfair
+167,not potentially unfair
+168,not potentially unfair
+169,not potentially unfair
+170,not potentially unfair
+171,not potentially unfair
+172,potentially unfair
+173,not potentially unfair
+174,potentially unfair
+175,not potentially unfair
+176,not potentially unfair
+177,potentially unfair
+178,potentially unfair
+179,not potentially unfair
+180,potentially unfair
+181,not potentially unfair
+182,not potentially unfair
+183,potentially unfair
+184,potentially unfair
+185,potentially unfair
+186,not potentially unfair
+187,not potentially unfair
+188,potentially unfair
+189,potentially unfair
+190,not potentially unfair
+191,potentially unfair
+192,not potentially unfair
+193,potentially unfair
+194,not potentially unfair
+195,not potentially unfair
+196,not potentially unfair
+197,potentially unfair
+198,potentially unfair
+199,not potentially unfair
+200,not potentially unfair
+201,not potentially unfair
+202,potentially unfair
+203,potentially unfair
+204,not potentially unfair
+205,potentially unfair
+206,not potentially unfair
+207,potentially unfair
+208,not potentially unfair
+209,potentially unfair
+210,not potentially unfair
+211,potentially unfair
+212,potentially unfair
+213,not potentially unfair
+214,potentially unfair
+215,not potentially unfair
+216,not potentially unfair
+217,potentially unfair
+218,potentially unfair
+219,potentially unfair
+220,potentially unfair
+221,potentially unfair
+222,not potentially unfair
+223,potentially unfair
+224,potentially unfair
+225,potentially unfair
+226,potentially unfair
+227,not potentially unfair
+228,potentially unfair
+229,not potentially unfair
+230,not potentially unfair
+231,potentially unfair
+232,not potentially unfair
+233,potentially unfair
+234,not potentially unfair
+235,not potentially unfair
+236,potentially unfair
+237,potentially unfair
+238,potentially unfair
+239,potentially unfair
+240,not potentially unfair
+241,not potentially unfair
+242,not potentially unfair
+243,not potentially unfair
+244,not potentially unfair
+245,potentially unfair
+246,not potentially unfair
+247,potentially unfair
+248,potentially unfair
+249,not potentially unfair
+250,not potentially unfair
+251,not potentially unfair
+252,not potentially unfair
+253,potentially unfair
+254,potentially unfair
+255,potentially unfair
+256,not potentially unfair
+257,not potentially unfair
+258,not potentially unfair
+259,not potentially unfair
+260,potentially unfair
+261,potentially unfair
+262,not potentially unfair
+263,not potentially unfair
+264,potentially unfair
+265,not potentially unfair
+266,not potentially unfair
+267,potentially unfair
+268,potentially unfair
+269,not potentially unfair
+270,not potentially unfair
+271,potentially unfair
+272,potentially unfair
+273,not potentially unfair
+274,potentially unfair
+275,potentially unfair
+276,not potentially unfair
+277,potentially unfair
+278,potentially unfair
+279,not potentially unfair
+280,not potentially unfair
+281,not potentially unfair
+282,potentially unfair
+283,potentially unfair
+284,potentially unfair
+285,potentially unfair
+286,not potentially unfair
+287,not potentially unfair
+288,potentially unfair
+289,potentially unfair
+290,potentially unfair
+291,not potentially unfair
+292,not potentially unfair
+293,potentially unfair
+294,not potentially unfair
+295,not potentially unfair
+296,not potentially unfair
+297,potentially unfair
+298,potentially unfair
+299,potentially unfair
+300,potentially unfair
+301,not potentially unfair
+302,not potentially unfair
+303,not potentially unfair
+304,potentially unfair
+305,not potentially unfair
+306,not potentially unfair
+307,potentially unfair
+308,potentially unfair
+309,not potentially unfair
+310,not potentially unfair
+311,potentially unfair
+312,potentially unfair
+313,potentially unfair
+314,not potentially unfair
+315,not potentially unfair
+316,not potentially unfair
+317,not potentially unfair
+318,potentially unfair
+319,potentially unfair
+320,potentially unfair
+321,potentially unfair
+322,potentially unfair
+323,potentially unfair
+324,not potentially unfair
+325,potentially unfair
+326,potentially unfair
+327,potentially unfair
+328,not potentially unfair
+329,potentially unfair
+330,not potentially unfair
+331,not potentially unfair
+332,not potentially unfair
+333,potentially unfair
+334,potentially unfair
+335,not potentially unfair
+336,potentially unfair
+337,not potentially unfair
+338,not potentially unfair
+339,potentially unfair
+340,not potentially unfair
+341,potentially unfair
+342,potentially unfair
+343,potentially unfair
+344,not potentially unfair
+345,potentially unfair
+346,not potentially unfair
+347,not potentially unfair
+348,not potentially unfair
+349,potentially unfair
+350,not potentially unfair
+351,not potentially unfair
+352,not potentially unfair
+353,potentially unfair
+354,not potentially unfair
+355,not potentially unfair
+356,not potentially unfair
+357,potentially unfair
+358,not potentially unfair
+359,potentially unfair
+360,potentially unfair
+361,not potentially unfair
+362,potentially unfair
+363,not potentially unfair
+364,potentially unfair
+365,potentially unfair
+366,not potentially unfair
+367,potentially unfair
+368,potentially unfair
+369,potentially unfair
+370,potentially unfair
+371,potentially unfair
+372,potentially unfair
+373,potentially unfair
+374,potentially unfair
+375,not potentially unfair
+376,potentially unfair
+377,not potentially unfair
+378,potentially unfair
+379,potentially unfair
+380,potentially unfair
+381,potentially unfair
+382,not potentially unfair
+383,not potentially unfair
+384,not potentially unfair
+385,potentially unfair
+386,potentially unfair
+387,potentially unfair
+388,not potentially unfair
+389,potentially unfair
+390,potentially unfair
+391,not potentially unfair
+392,potentially unfair
+393,not potentially unfair
+394,not potentially unfair
+395,not potentially unfair
+396,not potentially unfair
+397,potentially unfair
+398,not potentially unfair
+399,not potentially unfair
+400,not potentially unfair
+401,potentially unfair
+402,potentially unfair
+403,not potentially unfair
+404,not potentially unfair
+405,not potentially unfair
+406,not potentially unfair
+407,not potentially unfair
+408,not potentially unfair
+409,potentially unfair
+410,not potentially unfair
+411,not potentially unfair
+412,potentially unfair
+413,not potentially unfair
+414,potentially unfair
+415,not potentially unfair
+416,not potentially unfair
+417,potentially unfair
+418,not potentially unfair
+419,not potentially unfair
+420,potentially unfair
+421,not potentially unfair
+422,not potentially unfair
+423,potentially unfair
+424,not potentially unfair
+425,not potentially unfair
+426,potentially unfair
+427,potentially unfair
+428,not potentially unfair
+429,potentially unfair
+430,not potentially unfair
+431,not potentially unfair
+432,potentially unfair
+433,potentially unfair
+434,potentially unfair
+435,potentially unfair
+436,potentially unfair
+437,not potentially unfair
+438,potentially unfair
+439,not potentially unfair
+440,potentially unfair
+441,not potentially unfair
+442,potentially unfair
+443,not potentially unfair
+444,potentially unfair
+445,not potentially unfair
+446,not potentially unfair
+447,not potentially unfair
+448,not potentially unfair
+449,not potentially unfair
+450,not potentially unfair
+451,not potentially unfair
+452,not potentially unfair
+453,potentially unfair
+454,not potentially unfair
+455,potentially unfair
+456,potentially unfair
+457,potentially unfair
+458,not potentially unfair
+459,not potentially unfair
+460,not potentially unfair
+461,potentially unfair
+462,potentially unfair
+463,potentially unfair
+464,potentially unfair
+465,not potentially unfair
+466,not potentially unfair
+467,potentially unfair
+468,potentially unfair
+469,potentially unfair
+470,potentially unfair
+471,not potentially unfair
+472,not potentially unfair
+473,potentially unfair
+474,not potentially unfair
+475,not potentially unfair
+476,potentially unfair
+477,potentially unfair
+478,potentially unfair
+479,not potentially unfair
+480,not potentially unfair
+481,not potentially unfair
+482,potentially unfair
+483,not potentially unfair
+484,not potentially unfair
+485,not potentially unfair
+486,not potentially unfair
+487,potentially unfair
+488,not potentially unfair
+489,potentially unfair
+490,not potentially unfair
+491,not potentially unfair
+492,not potentially unfair
+493,not potentially unfair
+494,potentially unfair
+495,not potentially unfair
+496,not potentially unfair
+497,not potentially unfair
+498,potentially unfair
+499,not potentially unfair
+500,not potentially unfair
+501,potentially unfair
+502,not potentially unfair
+503,potentially unfair
+504,potentially unfair
+505,potentially unfair
+506,potentially unfair
+507,not potentially unfair
+508,not potentially unfair
+509,potentially unfair
+510,potentially unfair
+511,not potentially unfair
+512,potentially unfair
+513,potentially unfair
+514,not potentially unfair
+515,potentially unfair
+516,potentially unfair
+517,not potentially unfair
+518,not potentially unfair
+519,not potentially unfair
+520,potentially unfair
+521,potentially unfair
+522,potentially unfair
+523,potentially unfair
+524,potentially unfair
+525,potentially unfair
+526,potentially unfair
+527,not potentially unfair
+528,potentially unfair
+529,potentially unfair
+530,not potentially unfair
+531,not potentially unfair
+532,potentially unfair
+533,potentially unfair
+534,potentially unfair
+535,not potentially unfair
+536,potentially unfair
+537,not potentially unfair
+538,not potentially unfair
+539,not potentially unfair
+540,not potentially unfair
+541,potentially unfair
+542,not potentially unfair
+543,potentially unfair
+544,not potentially unfair
+545,potentially unfair
+546,not potentially unfair
+547,potentially unfair
+548,not potentially unfair
+549,not potentially unfair
+550,not potentially unfair
+551,not potentially unfair
+552,not potentially unfair
+553,not potentially unfair
+554,potentially unfair
+555,potentially unfair
+556,not potentially unfair
+557,not potentially unfair
+558,not potentially unfair
+559,not potentially unfair
+560,not potentially unfair
+561,not potentially unfair
+562,potentially unfair
+563,not potentially unfair
+564,potentially unfair
+565,potentially unfair
+566,potentially unfair
+567,not potentially unfair
+568,not potentially unfair
+569,not potentially unfair
+570,not potentially unfair
+571,not potentially unfair
+572,not potentially unfair
+573,not potentially unfair
+574,potentially unfair
+575,potentially unfair
+576,not potentially unfair
+577,not potentially unfair
+578,not potentially unfair
+579,potentially unfair
+580,potentially unfair
+581,potentially unfair
+582,potentially unfair
+583,potentially unfair
+584,potentially unfair
+585,potentially unfair
+586,not potentially unfair
+587,not potentially unfair
+588,not potentially unfair
+589,not potentially unfair
+590,potentially unfair
+591,not potentially unfair
+592,potentially unfair
+593,not potentially unfair
+594,potentially unfair
+595,not potentially unfair
+596,potentially unfair
+597,potentially unfair
+598,potentially unfair
+599,not potentially unfair
+600,not potentially unfair
+601,not potentially unfair
+602,potentially unfair
+603,not potentially unfair
+604,not potentially unfair
+605,not potentially unfair
+606,not potentially unfair
+607,not potentially unfair
+608,not potentially unfair
+609,potentially unfair
+610,potentially unfair
+611,potentially unfair
+612,not potentially unfair
+613,potentially unfair
+614,potentially unfair
+615,not potentially unfair
+616,not potentially unfair
+617,potentially unfair
+618,potentially unfair
+619,potentially unfair
+620,potentially unfair
+621,not potentially unfair
+622,potentially unfair
+623,not potentially unfair
+624,potentially unfair
+625,not potentially unfair
+626,potentially unfair
+627,not potentially unfair
+628,not potentially unfair
+629,potentially unfair
+630,potentially unfair
+631,not potentially unfair
+632,not potentially unfair
+633,potentially unfair
+634,not potentially unfair
+635,not potentially unfair
+636,not potentially unfair
+637,not potentially unfair
+638,potentially unfair
+639,not potentially unfair
+640,not potentially unfair
+641,potentially unfair
+642,potentially unfair
+643,not potentially unfair
+644,not potentially unfair
+645,not potentially unfair
+646,not potentially unfair
+647,not potentially unfair
+648,potentially unfair
+649,not potentially unfair
+650,potentially unfair
+651,potentially unfair
+652,potentially unfair
+653,not potentially unfair
+654,potentially unfair
+655,potentially unfair
+656,potentially unfair
+657,potentially unfair
+658,not potentially unfair
+659,not potentially unfair
+660,potentially unfair
+661,not potentially unfair
+662,potentially unfair
+663,potentially unfair
+664,not potentially unfair
+665,not potentially unfair
+666,not potentially unfair
+667,not potentially unfair
+668,not potentially unfair
+669,not potentially unfair
+670,not potentially unfair
+671,potentially unfair
+672,not potentially unfair
+673,not potentially unfair
+674,not potentially unfair
+675,not potentially unfair
+676,potentially unfair
+677,not potentially unfair
+678,potentially unfair
+679,potentially unfair
+680,potentially unfair
+681,not potentially unfair
+682,potentially unfair
+683,potentially unfair
+684,not potentially unfair
+685,not potentially unfair
+686,potentially unfair
+687,potentially unfair
+688,not potentially unfair
+689,not potentially unfair
+690,potentially unfair
+691,potentially unfair
+692,not potentially unfair
+693,not potentially unfair
+694,potentially unfair
+695,not potentially unfair
+696,potentially unfair
+697,not potentially unfair
+698,potentially unfair
+699,not potentially unfair
+700,not potentially unfair
+701,not potentially unfair
+702,not potentially unfair
+703,not potentially unfair
+704,not potentially unfair
+705,not potentially unfair
+706,not potentially unfair
+707,potentially unfair
+708,potentially unfair
+709,not potentially unfair
+710,not potentially unfair
+711,potentially unfair
+712,not potentially unfair
+713,not potentially unfair
+714,not potentially unfair
+715,not potentially unfair
+716,not potentially unfair
+717,not potentially unfair
+718,potentially unfair
+719,not potentially unfair
+720,not potentially unfair
+721,potentially unfair
+722,potentially unfair
+723,potentially unfair
+724,not potentially unfair
+725,not potentially unfair
+726,not potentially unfair
+727,not potentially unfair
+728,not potentially unfair
+729,not potentially unfair
+730,potentially unfair
+731,potentially unfair
+732,potentially unfair
+733,potentially unfair
+734,not potentially unfair
+735,potentially unfair
+736,potentially unfair
+737,not potentially unfair
+738,potentially unfair
+739,not potentially unfair
+740,potentially unfair
+741,not potentially unfair
+742,not potentially unfair
+743,potentially unfair
+744,potentially unfair
+745,potentially unfair
+746,not potentially unfair
+747,potentially unfair
+748,not potentially unfair
+749,potentially unfair
+750,potentially unfair
+751,potentially unfair
+752,not potentially unfair
+753,potentially unfair
+754,potentially unfair
+755,potentially unfair
+756,potentially unfair
+757,not potentially unfair
+758,potentially unfair
+759,not potentially unfair
+760,not potentially unfair
+761,potentially unfair
+762,not potentially unfair
+763,not potentially unfair
+764,potentially unfair
+765,not potentially unfair
+766,potentially unfair
+767,not potentially unfair
+768,not potentially unfair
+769,not potentially unfair
+770,not potentially unfair
+771,not potentially unfair
+772,not potentially unfair
+773,not potentially unfair
+774,potentially unfair
+775,potentially unfair
+776,potentially unfair
+777,not potentially unfair
+778,potentially unfair
+779,potentially unfair
+780,potentially unfair
+781,not potentially unfair
+782,potentially unfair
+783,not potentially unfair
+784,not potentially unfair
+785,not potentially unfair
+786,not potentially unfair
+787,potentially unfair
+788,not potentially unfair
+789,potentially unfair
+790,not potentially unfair
+791,potentially unfair
+792,not potentially unfair
+793,not potentially unfair
+794,potentially unfair
+795,potentially unfair
+796,potentially unfair
+797,not potentially unfair
+798,not potentially unfair
+799,potentially unfair
+800,potentially unfair
+801,not potentially unfair
+802,potentially unfair
+803,not potentially unfair
+804,potentially unfair
+805,potentially unfair
+806,potentially unfair
+807,not potentially unfair
+808,potentially unfair
+809,not potentially unfair
+810,not potentially unfair
+811,potentially unfair
+812,potentially unfair
+813,not potentially unfair
+814,not potentially unfair
+815,not potentially unfair
+816,potentially unfair
+817,not potentially unfair
+818,not potentially unfair
+819,not potentially unfair
+820,potentially unfair
+821,potentially unfair
+822,potentially unfair
+823,potentially unfair
+824,potentially unfair
+825,potentially unfair
+826,potentially unfair
+827,potentially unfair
+828,not potentially unfair
+829,potentially unfair
+830,potentially unfair
+831,not potentially unfair
+832,potentially unfair
+833,potentially unfair
+834,potentially unfair
+835,not potentially unfair
+836,not potentially unfair
+837,potentially unfair
+838,potentially unfair
+839,not potentially unfair
+840,potentially unfair
+841,not potentially unfair
+842,not potentially unfair
+843,not potentially unfair
+844,potentially unfair
+845,not potentially unfair
+846,potentially unfair
+847,potentially unfair
+848,potentially unfair
+849,potentially unfair
+850,not potentially unfair
+851,potentially unfair
+852,not potentially unfair
+853,potentially unfair
+854,potentially unfair
+855,potentially unfair
+856,potentially unfair
+857,not potentially unfair
+858,not potentially unfair
+859,potentially unfair
+860,potentially unfair
+861,not potentially unfair
+862,potentially unfair
+863,potentially unfair
+864,not potentially unfair
+865,potentially unfair
+866,potentially unfair
+867,potentially unfair
+868,potentially unfair
+869,not potentially unfair
+870,potentially unfair
+871,potentially unfair
+872,not potentially unfair
+873,not potentially unfair
+874,not potentially unfair
+875,potentially unfair
+876,potentially unfair
+877,not potentially unfair
+878,not potentially unfair
+879,not potentially unfair
+880,not potentially unfair
+881,potentially unfair
+882,not potentially unfair
+883,potentially unfair
+884,potentially unfair
+885,potentially unfair
+886,not potentially unfair
+887,potentially unfair
+888,not potentially unfair
+889,not potentially unfair
+890,not potentially unfair
+891,potentially unfair
+892,not potentially unfair
+893,not potentially unfair
+894,not potentially unfair
+895,potentially unfair
+896,not potentially unfair
+897,not potentially unfair
+898,not potentially unfair
+899,not potentially unfair
+900,not potentially unfair
+901,not potentially unfair
+902,not potentially unfair
+903,not potentially unfair
+904,not potentially unfair
+905,potentially unfair
+906,potentially unfair
+907,potentially unfair
+908,potentially unfair
+909,potentially unfair
+910,not potentially unfair
+911,potentially unfair
+912,not potentially unfair
+913,potentially unfair
+914,potentially unfair
+915,not potentially unfair
+916,not potentially unfair
+917,potentially unfair
+918,not potentially unfair
+919,potentially unfair
+920,not potentially unfair
+921,not potentially unfair
+922,not potentially unfair
+923,not potentially unfair
+924,potentially unfair
+925,potentially unfair
+926,potentially unfair
+927,not potentially unfair
+928,not potentially unfair
+929,not potentially unfair
+930,potentially unfair
+931,potentially unfair
+932,potentially unfair
+933,not potentially unfair
+934,not potentially unfair
+935,not potentially unfair
+936,not potentially unfair
+937,not potentially unfair
+938,potentially unfair
+939,potentially unfair
+940,potentially unfair
+941,potentially unfair
+942,potentially unfair
+943,not potentially unfair
+944,potentially unfair
+945,potentially unfair
+946,not potentially unfair
+947,potentially unfair
+948,potentially unfair
+949,potentially unfair
+950,potentially unfair
+951,not potentially unfair
+952,not potentially unfair
+953,not potentially unfair
+954,not potentially unfair
+955,potentially unfair
+956,not potentially unfair
+957,not potentially unfair
+958,not potentially unfair
+959,not potentially unfair
+960,not potentially unfair
+961,potentially unfair
+962,not potentially unfair
+963,not potentially unfair
+964,potentially unfair
+965,not potentially unfair
+966,not potentially unfair
+967,potentially unfair
+968,potentially unfair
+969,not potentially unfair
+970,not potentially unfair
+971,not potentially unfair
+972,potentially unfair
+973,potentially unfair
+974,potentially unfair
+975,potentially unfair
+976,not potentially unfair
+977,not potentially unfair
+978,potentially unfair
+979,potentially unfair
+980,not potentially unfair
+981,potentially unfair
+982,potentially unfair
+983,not potentially unfair
+984,potentially unfair
+985,not potentially unfair
+986,not potentially unfair
+987,not potentially unfair
+988,potentially unfair
+989,not potentially unfair
+990,not potentially unfair
+991,not potentially unfair
+992,potentially unfair
+993,potentially unfair
+994,not potentially unfair
+995,not potentially unfair
+996,potentially unfair
+997,potentially unfair
+998,potentially unfair
+999,potentially unfair
+1000,potentially unfair
+1001,not potentially unfair
+1002,potentially unfair
+1003,potentially unfair
+1004,potentially unfair
+1005,potentially unfair
+1006,not potentially unfair
+1007,not potentially unfair
+1008,potentially unfair
+1009,potentially unfair
+1010,potentially unfair
+1011,potentially unfair
+1012,not potentially unfair
+1013,potentially unfair
+1014,potentially unfair
+1015,not potentially unfair
+1016,potentially unfair
+1017,not potentially unfair
+1018,not potentially unfair
+1019,potentially unfair
+1020,not potentially unfair
+1021,potentially unfair
+1022,potentially unfair
+1023,not potentially unfair
+1024,not potentially unfair
+1025,potentially unfair
+1026,not potentially unfair
+1027,not potentially unfair
+1028,potentially unfair
+1029,not potentially unfair
+1030,not potentially unfair
+1031,potentially unfair
+1032,potentially unfair
+1033,potentially unfair
+1034,potentially unfair
+1035,potentially unfair
+1036,potentially unfair
+1037,potentially unfair
+1038,not potentially unfair
+1039,not potentially unfair
+1040,not potentially unfair
+1041,not potentially unfair
+1042,not potentially unfair
+1043,potentially unfair
+1044,potentially unfair
+1045,potentially unfair
+1046,not potentially unfair
+1047,not potentially unfair
+1048,potentially unfair
+1049,not potentially unfair
+1050,potentially unfair
+1051,potentially unfair
+1052,potentially unfair
+1053,not potentially unfair
+1054,potentially unfair
+1055,potentially unfair
+1056,potentially unfair
+1057,potentially unfair
+1058,not potentially unfair
+1059,potentially unfair
+1060,not potentially unfair
+1061,not potentially unfair
+1062,potentially unfair
+1063,potentially unfair
+1064,potentially unfair
+1065,not potentially unfair
+1066,potentially unfair
+1067,potentially unfair
+1068,potentially unfair
+1069,not potentially unfair
+1070,not potentially unfair
+1071,not potentially unfair
+1072,potentially unfair
+1073,not potentially unfair
+1074,not potentially unfair
+1075,potentially unfair
+1076,not potentially unfair
+1077,potentially unfair
+1078,not potentially unfair
+1079,not potentially unfair
+1080,potentially unfair
+1081,potentially unfair
+1082,potentially unfair
+1083,potentially unfair
+1084,not potentially unfair
+1085,not potentially unfair
+1086,not potentially unfair
+1087,not potentially unfair
+1088,potentially unfair
+1089,potentially unfair
+1090,potentially unfair
+1091,not potentially unfair
+1092,potentially unfair
+1093,potentially unfair
+1094,potentially unfair
+1095,not potentially unfair
+1096,not potentially unfair
+1097,potentially unfair
+1098,potentially unfair
+1099,potentially unfair
+1100,potentially unfair
+1101,potentially unfair
+1102,potentially unfair
+1103,not potentially unfair
+1104,not potentially unfair
+1105,potentially unfair
+1106,potentially unfair
+1107,not potentially unfair
+1108,not potentially unfair
+1109,not potentially unfair
+1110,not potentially unfair
+1111,potentially unfair
+1112,potentially unfair
+1113,potentially unfair
+1114,not potentially unfair
+1115,potentially unfair
+1116,potentially unfair
+1117,potentially unfair
+1118,potentially unfair
+1119,not potentially unfair
+1120,potentially unfair
+1121,not potentially unfair
+1122,potentially unfair
+1123,potentially unfair
+1124,potentially unfair
+1125,not potentially unfair
+1126,potentially unfair
+1127,not potentially unfair
+1128,potentially unfair
+1129,potentially unfair
+1130,potentially unfair
+1131,potentially unfair
+1132,potentially unfair
+1133,not potentially unfair
+1134,potentially unfair
+1135,potentially unfair
+1136,potentially unfair
+1137,potentially unfair
+1138,not potentially unfair
+1139,not potentially unfair
+1140,not potentially unfair
+1141,potentially unfair
+1142,not potentially unfair
+1143,potentially unfair
+1144,potentially unfair
+1145,potentially unfair
+1146,potentially unfair
+1147,potentially unfair
+1148,not potentially unfair
+1149,potentially unfair
+1150,not potentially unfair
+1151,potentially unfair
+1152,potentially unfair
+1153,potentially unfair
+1154,not potentially unfair
+1155,potentially unfair
+1156,potentially unfair
+1157,not potentially unfair
+1158,not potentially unfair
+1159,potentially unfair
+1160,not potentially unfair
+1161,potentially unfair
+1162,not potentially unfair
+1163,not potentially unfair
+1164,potentially unfair
+1165,not potentially unfair
+1166,not potentially unfair
+1167,potentially unfair
+1168,potentially unfair
+1169,potentially unfair
+1170,potentially unfair
+1171,not potentially unfair
+1172,not potentially unfair
+1173,not potentially unfair
+1174,potentially unfair
+1175,potentially unfair
+1176,not potentially unfair
+1177,potentially unfair
+1178,potentially unfair
+1179,not potentially unfair
+1180,potentially unfair
+1181,not potentially unfair
+1182,potentially unfair
+1183,potentially unfair
+1184,potentially unfair
+1185,not potentially unfair
+1186,not potentially unfair
+1187,potentially unfair
+1188,potentially unfair
+1189,not potentially unfair
+1190,potentially unfair
+1191,potentially unfair
+1192,not potentially unfair
+1193,not potentially unfair
+1194,not potentially unfair
+1195,potentially unfair
+1196,not potentially unfair
+1197,potentially unfair
+1198,not potentially unfair
+1199,not potentially unfair
+1200,potentially unfair
+1201,not potentially unfair
+1202,not potentially unfair
+1203,potentially unfair
+1204,not potentially unfair
+1205,not potentially unfair
+1206,potentially unfair
+1207,potentially unfair
+1208,not potentially unfair
+1209,not potentially unfair
+1210,potentially unfair
+1211,potentially unfair
+1212,not potentially unfair
+1213,potentially unfair
+1214,not potentially unfair
+1215,potentially unfair
+1216,not potentially unfair
+1217,not potentially unfair
+1218,not potentially unfair
+1219,potentially unfair
+1220,not potentially unfair
+1221,not potentially unfair
+1222,not potentially unfair
+1223,not potentially unfair
+1224,not potentially unfair
+1225,not potentially unfair
+1226,potentially unfair
+1227,not potentially unfair
+1228,not potentially unfair
+1229,potentially unfair
+1230,potentially unfair
+1231,potentially unfair
+1232,potentially unfair
+1233,potentially unfair
+1234,not potentially unfair
+1235,not potentially unfair
+1236,potentially unfair
+1237,potentially unfair
+1238,potentially unfair
+1239,potentially unfair
+1240,not potentially unfair
+1241,not potentially unfair
+1242,potentially unfair
+1243,potentially unfair
+1244,not potentially unfair
+1245,potentially unfair
+1246,not potentially unfair
+1247,potentially unfair
+1248,not potentially unfair
+1249,potentially unfair
+1250,not potentially unfair
+1251,potentially unfair
+1252,potentially unfair
+1253,potentially unfair
+1254,potentially unfair
+1255,potentially unfair
+1256,potentially unfair
+1257,not potentially unfair
+1258,not potentially unfair
+1259,not potentially unfair
+1260,potentially unfair
+1261,potentially unfair
+1262,potentially unfair
+1263,potentially unfair
+1264,not potentially unfair
+1265,potentially unfair
+1266,not potentially unfair
+1267,potentially unfair
+1268,not potentially unfair
+1269,potentially unfair
+1270,potentially unfair
+1271,not potentially unfair
+1272,not potentially unfair
+1273,potentially unfair
+1274,potentially unfair
+1275,not potentially unfair
+1276,potentially unfair
+1277,not potentially unfair
+1278,not potentially unfair
+1279,not potentially unfair
+1280,not potentially unfair
+1281,potentially unfair
+1282,not potentially unfair
+1283,potentially unfair
+1284,not potentially unfair
+1285,not potentially unfair
+1286,not potentially unfair
+1287,not potentially unfair
+1288,not potentially unfair
+1289,not potentially unfair
+1290,not potentially unfair
+1291,potentially unfair
+1292,not potentially unfair
+1293,potentially unfair
+1294,not potentially unfair
+1295,potentially unfair
+1296,not potentially unfair
+1297,not potentially unfair
+1298,potentially unfair
+1299,potentially unfair
+1300,potentially unfair
+1301,potentially unfair
+1302,potentially unfair
+1303,not potentially unfair
+1304,not potentially unfair
+1305,potentially unfair
+1306,potentially unfair
+1307,potentially unfair
+1308,potentially unfair
+1309,potentially unfair
+1310,potentially unfair
+1311,potentially unfair
+1312,not potentially unfair
+1313,potentially unfair
+1314,not potentially unfair
+1315,potentially unfair
+1316,not potentially unfair
+1317,not potentially unfair
+1318,potentially unfair
+1319,potentially unfair
+1320,potentially unfair
+1321,not potentially unfair
+1322,potentially unfair
+1323,potentially unfair
+1324,not potentially unfair
+1325,potentially unfair
+1326,not potentially unfair
+1327,potentially unfair
+1328,not potentially unfair
+1329,not potentially unfair
+1330,not potentially unfair
+1331,not potentially unfair
+1332,potentially unfair
+1333,potentially unfair
+1334,potentially unfair
+1335,not potentially unfair
+1336,potentially unfair
+1337,not potentially unfair
+1338,not potentially unfair
+1339,not potentially unfair
+1340,not potentially unfair
+1341,potentially unfair
+1342,not potentially unfair
+1343,not potentially unfair
+1344,not potentially unfair
+1345,not potentially unfair
+1346,potentially unfair
+1347,potentially unfair
+1348,not potentially unfair
+1349,not potentially unfair
+1350,not potentially unfair
+1351,not potentially unfair
+1352,potentially unfair
+1353,potentially unfair
+1354,potentially unfair
+1355,not potentially unfair
+1356,potentially unfair
+1357,potentially unfair
+1358,not potentially unfair
+1359,potentially unfair
+1360,potentially unfair
+1361,not potentially unfair
+1362,potentially unfair
+1363,not potentially unfair
+1364,potentially unfair
+1365,not potentially unfair
+1366,not potentially unfair
+1367,not potentially unfair
+1368,not potentially unfair
+1369,potentially unfair
+1370,potentially unfair
+1371,potentially unfair
+1372,potentially unfair
+1373,not potentially unfair
+1374,not potentially unfair
+1375,potentially unfair
+1376,not potentially unfair
+1377,potentially unfair
+1378,not potentially unfair
+1379,potentially unfair
+1380,potentially unfair
+1381,potentially unfair
+1382,potentially unfair
+1383,not potentially unfair
+1384,potentially unfair
+1385,potentially unfair
+1386,potentially unfair
+1387,potentially unfair
+1388,potentially unfair
+1389,not potentially unfair
+1390,potentially unfair
+1391,potentially unfair
+1392,not potentially unfair
+1393,not potentially unfair
+1394,not potentially unfair
+1395,potentially unfair
+1396,potentially unfair
+1397,potentially unfair
+1398,not potentially unfair
+1399,potentially unfair
+1400,not potentially unfair
+1401,potentially unfair
+1402,potentially unfair
+1403,potentially unfair
+1404,not potentially unfair
+1405,not potentially unfair
+1406,potentially unfair
+1407,not potentially unfair
+1408,not potentially unfair
+1409,potentially unfair
+1410,not potentially unfair
+1411,not potentially unfair
+1412,potentially unfair
+1413,not potentially unfair
+1414,not potentially unfair
+1415,potentially unfair
+1416,potentially unfair
+1417,potentially unfair
+1418,not potentially unfair
+1419,not potentially unfair
+1420,not potentially unfair
+1421,not potentially unfair
+1422,not potentially unfair
+1423,not potentially unfair
+1424,potentially unfair
+1425,not potentially unfair
+1426,not potentially unfair
+1427,not potentially unfair
+1428,potentially unfair
+1429,potentially unfair
+1430,not potentially unfair
+1431,not potentially unfair
+1432,potentially unfair
+1433,not potentially unfair
+1434,potentially unfair
+1435,not potentially unfair
+1436,potentially unfair
+1437,potentially unfair
+1438,potentially unfair
+1439,not potentially unfair
+1440,potentially unfair
+1441,not potentially unfair
+1442,potentially unfair
+1443,potentially unfair
+1444,not potentially unfair
+1445,not potentially unfair
+1446,potentially unfair
+1447,potentially unfair
+1448,potentially unfair
+1449,not potentially unfair
+1450,not potentially unfair
+1451,not potentially unfair
+1452,not potentially unfair
+1453,potentially unfair
+1454,not potentially unfair
+1455,not potentially unfair
+1456,potentially unfair
+1457,not potentially unfair
+1458,potentially unfair
+1459,potentially unfair
+1460,potentially unfair
+1461,potentially unfair
+1462,not potentially unfair
+1463,potentially unfair
+1464,not potentially unfair
+1465,potentially unfair
+1466,potentially unfair
+1467,not potentially unfair
+1468,not potentially unfair
+1469,not potentially unfair
+1470,not potentially unfair
+1471,potentially unfair
+1472,not potentially unfair
+1473,potentially unfair
+1474,potentially unfair
+1475,potentially unfair
+1476,not potentially unfair
+1477,not potentially unfair
+1478,potentially unfair
+1479,potentially unfair
+1480,not potentially unfair
+1481,not potentially unfair
+1482,potentially unfair
+1483,potentially unfair
+1484,potentially unfair
+1485,potentially unfair
+1486,not potentially unfair
+1487,not potentially unfair
+1488,potentially unfair
+1489,not potentially unfair
+1490,potentially unfair
+1491,potentially unfair
+1492,potentially unfair
+1493,potentially unfair
+1494,potentially unfair
+1495,potentially unfair
+1496,potentially unfair
+1497,not potentially unfair
+1498,not potentially unfair
+1499,not potentially unfair
+1500,not potentially unfair
+1501,potentially unfair
+1502,not potentially unfair
+1503,potentially unfair
+1504,potentially unfair
+1505,not potentially unfair
+1506,potentially unfair
+1507,not potentially unfair
+1508,potentially unfair
+1509,potentially unfair
+1510,not potentially unfair
+1511,potentially unfair
+1512,potentially unfair
+1513,not potentially unfair
+1514,not potentially unfair
+1515,potentially unfair
+1516,not potentially unfair
+1517,not potentially unfair
+1518,not potentially unfair
+1519,potentially unfair
+1520,potentially unfair
+1521,not potentially unfair
+1522,potentially unfair
+1523,not potentially unfair
+1524,potentially unfair
+1525,potentially unfair
+1526,potentially unfair
+1527,potentially unfair
+1528,potentially unfair
+1529,not potentially unfair
+1530,not potentially unfair
+1531,not potentially unfair
+1532,not potentially unfair
+1533,not potentially unfair
+1534,potentially unfair
+1535,not potentially unfair
+1536,not potentially unfair
+1537,potentially unfair
+1538,not potentially unfair
+1539,potentially unfair
+1540,potentially unfair
+1541,potentially unfair
+1542,not potentially unfair
+1543,not potentially unfair
+1544,not potentially unfair
+1545,not potentially unfair
+1546,not potentially unfair
+1547,not potentially unfair
+1548,not potentially unfair
+1549,potentially unfair
+1550,not potentially unfair
+1551,not potentially unfair
+1552,not potentially unfair
+1553,potentially unfair
+1554,not potentially unfair
+1555,not potentially unfair
+1556,potentially unfair
+1557,potentially unfair
+1558,potentially unfair
+1559,not potentially unfair
+1560,potentially unfair
+1561,potentially unfair
+1562,potentially unfair
+1563,not potentially unfair
+1564,potentially unfair
+1565,potentially unfair
+1566,potentially unfair
+1567,not potentially unfair
+1568,not potentially unfair
+1569,not potentially unfair
+1570,not potentially unfair
+1571,potentially unfair
+1572,not potentially unfair
+1573,not potentially unfair
+1574,not potentially unfair
+1575,not potentially unfair
+1576,not potentially unfair
+1577,not potentially unfair
+1578,potentially unfair
+1579,potentially unfair
+1580,potentially unfair
+1581,not potentially unfair
+1582,not potentially unfair
+1583,potentially unfair
+1584,not potentially unfair
+1585,potentially unfair
+1586,not potentially unfair
+1587,potentially unfair
+1588,potentially unfair
+1589,potentially unfair
+1590,not potentially unfair
+1591,not potentially unfair
+1592,potentially unfair
+1593,not potentially unfair
+1594,not potentially unfair
+1595,not potentially unfair
+1596,potentially unfair
+1597,not potentially unfair
+1598,not potentially unfair
+1599,not potentially unfair
+1600,not potentially unfair
+1601,not potentially unfair
+1602,potentially unfair
+1603,not potentially unfair
+1604,potentially unfair
+1605,potentially unfair
+1606,potentially unfair
+1607,potentially unfair
+1608,potentially unfair
+1609,not potentially unfair
+1610,potentially unfair
+1611,potentially unfair
+1612,not potentially unfair
+1613,potentially unfair
+1614,not potentially unfair
+1615,not potentially unfair
+1616,not potentially unfair
+1617,potentially unfair
+1618,potentially unfair
+1619,not potentially unfair
+1620,potentially unfair
+1621,potentially unfair
+1622,potentially unfair
+1623,not potentially unfair
+1624,potentially unfair
+1625,not potentially unfair
+1626,not potentially unfair
+1627,potentially unfair
+1628,not potentially unfair
+1629,potentially unfair
+1630,not potentially unfair
+1631,potentially unfair
+1632,not potentially unfair
+1633,not potentially unfair
+1634,not potentially unfair
+1635,potentially unfair
+1636,potentially unfair
+1637,potentially unfair
+1638,not potentially unfair
+1639,potentially unfair
+1640,potentially unfair
+1641,potentially unfair
+1642,potentially unfair
+1643,potentially unfair
+1644,not potentially unfair
+1645,not potentially unfair
+1646,not potentially unfair
+1647,not potentially unfair
+1648,potentially unfair
+1649,not potentially unfair
+1650,not potentially unfair
+1651,potentially unfair
+1652,not potentially unfair
+1653,potentially unfair
+1654,not potentially unfair
+1655,not potentially unfair
+1656,potentially unfair
+1657,not potentially unfair
+1658,not potentially unfair
+1659,not potentially unfair
+1660,not potentially unfair
+1661,potentially unfair
+1662,not potentially unfair
+1663,not potentially unfair
+1664,not potentially unfair
+1665,not potentially unfair
+1666,not potentially unfair
+1667,potentially unfair
+1668,potentially unfair
+1669,not potentially unfair
+1670,potentially unfair
+1671,potentially unfair
+1672,not potentially unfair
+1673,potentially unfair
+1674,not potentially unfair
+1675,not potentially unfair
+1676,potentially unfair
+1677,not potentially unfair
+1678,potentially unfair
+1679,not potentially unfair
+1680,potentially unfair
+1681,not potentially unfair
+1682,potentially unfair
+1683,potentially unfair
+1684,potentially unfair
+1685,not potentially unfair
+1686,not potentially unfair
+1687,not potentially unfair
+1688,potentially unfair
+1689,potentially unfair
+1690,potentially unfair
+1691,potentially unfair
+1692,not potentially unfair
+1693,not potentially unfair
+1694,potentially unfair
+1695,potentially unfair
+1696,potentially unfair
+1697,not potentially unfair
+1698,not potentially unfair
+1699,potentially unfair
+1700,potentially unfair
+1701,potentially unfair
+1702,potentially unfair
+1703,not potentially unfair
+1704,not potentially unfair
+1705,not potentially unfair
+1706,potentially unfair
+1707,not potentially unfair
+1708,potentially unfair
+1709,not potentially unfair
+1710,not potentially unfair
+1711,not potentially unfair
+1712,not potentially unfair
+1713,potentially unfair
+1714,potentially unfair
+1715,potentially unfair
+1716,not potentially unfair
+1717,potentially unfair
+1718,potentially unfair
+1719,not potentially unfair
+1720,potentially unfair
+1721,not potentially unfair
+1722,potentially unfair
+1723,not potentially unfair
+1724,not potentially unfair
+1725,potentially unfair
+1726,potentially unfair
+1727,not potentially unfair
+1728,not potentially unfair
+1729,not potentially unfair
+1730,potentially unfair
+1731,not potentially unfair
+1732,not potentially unfair
+1733,potentially unfair
+1734,potentially unfair
+1735,not potentially unfair
+1736,not potentially unfair
+1737,potentially unfair
+1738,potentially unfair
+1739,potentially unfair
+1740,potentially unfair
+1741,not potentially unfair
+1742,not potentially unfair
+1743,not potentially unfair
+1744,not potentially unfair
+1745,not potentially unfair
+1746,potentially unfair
+1747,potentially unfair
+1748,not potentially unfair
+1749,potentially unfair
+1750,potentially unfair
+1751,not potentially unfair
+1752,potentially unfair
+1753,not potentially unfair
+1754,potentially unfair
+1755,not potentially unfair
+1756,not potentially unfair
+1757,not potentially unfair
+1758,not potentially unfair
+1759,not potentially unfair
+1760,not potentially unfair
+1761,potentially unfair
+1762,not potentially unfair
+1763,potentially unfair
+1764,not potentially unfair
+1765,not potentially unfair
+1766,not potentially unfair
+1767,potentially unfair
+1768,not potentially unfair
+1769,not potentially unfair
+1770,not potentially unfair
+1771,not potentially unfair
+1772,not potentially unfair
+1773,not potentially unfair
+1774,potentially unfair
+1775,potentially unfair
+1776,not potentially unfair
+1777,potentially unfair
+1778,potentially unfair
+1779,potentially unfair
+1780,not potentially unfair
+1781,not potentially unfair
+1782,potentially unfair
+1783,potentially unfair
+1784,not potentially unfair
+1785,potentially unfair
+1786,potentially unfair
+1787,potentially unfair
+1788,not potentially unfair
+1789,potentially unfair
+1790,potentially unfair
+1791,potentially unfair
+1792,not potentially unfair
+1793,not potentially unfair
+1794,potentially unfair
+1795,not potentially unfair
+1796,not potentially unfair
+1797,potentially unfair
+1798,potentially unfair
+1799,not potentially unfair
+1800,potentially unfair
+1801,potentially unfair
+1802,not potentially unfair
+1803,potentially unfair
+1804,potentially unfair
+1805,potentially unfair
+1806,potentially unfair
+1807,not potentially unfair
+1808,not potentially unfair
+1809,not potentially unfair
+1810,potentially unfair
+1811,potentially unfair
+1812,not potentially unfair
+1813,not potentially unfair
+1814,potentially unfair
+1815,potentially unfair
+1816,potentially unfair
+1817,potentially unfair
+1818,potentially unfair
+1819,potentially unfair
+1820,potentially unfair
+1821,potentially unfair
+1822,potentially unfair
+1823,potentially unfair
+1824,not potentially unfair
+1825,potentially unfair
+1826,not potentially unfair
+1827,potentially unfair
+1828,not potentially unfair
+1829,not potentially unfair
+1830,potentially unfair
+1831,potentially unfair
+1832,not potentially unfair
+1833,potentially unfair
+1834,potentially unfair
+1835,potentially unfair
+1836,potentially unfair
+1837,not potentially unfair
+1838,not potentially unfair
+1839,not potentially unfair
+1840,potentially unfair
+1841,potentially unfair
+1842,potentially unfair
+1843,not potentially unfair
+1844,not potentially unfair
+1845,not potentially unfair
+1846,not potentially unfair
+1847,not potentially unfair
+1848,potentially unfair
+1849,not potentially unfair
+1850,not potentially unfair
+1851,potentially unfair
+1852,potentially unfair
+1853,not potentially unfair
+1854,not potentially unfair
+1855,not potentially unfair
+1856,potentially unfair
+1857,not potentially unfair
+1858,not potentially unfair
+1859,not potentially unfair
+1860,potentially unfair
+1861,not potentially unfair
+1862,not potentially unfair
+1863,potentially unfair
+1864,potentially unfair
+1865,potentially unfair
+1866,not potentially unfair
+1867,not potentially unfair
+1868,not potentially unfair
+1869,potentially unfair
+1870,potentially unfair
+1871,potentially unfair
+1872,potentially unfair
+1873,potentially unfair
+1874,not potentially unfair
+1875,potentially unfair
+1876,not potentially unfair
+1877,potentially unfair
+1878,not potentially unfair
+1879,potentially unfair
+1880,potentially unfair
+1881,not potentially unfair
+1882,not potentially unfair
+1883,potentially unfair
+1884,potentially unfair
+1885,potentially unfair
+1886,potentially unfair
+1887,potentially unfair
+1888,potentially unfair
+1889,not potentially unfair
+1890,not potentially unfair
+1891,potentially unfair
+1892,not potentially unfair
+1893,potentially unfair
+1894,potentially unfair
+1895,not potentially unfair
+1896,not potentially unfair
+1897,potentially unfair
+1898,potentially unfair
+1899,potentially unfair
+1900,not potentially unfair
+1901,not potentially unfair
+1902,not potentially unfair
+1903,not potentially unfair
+1904,potentially unfair
+1905,potentially unfair
+1906,not potentially unfair
+1907,not potentially unfair
+1908,potentially unfair
+1909,not potentially unfair
+1910,not potentially unfair
+1911,not potentially unfair
+1912,not potentially unfair
+1913,potentially unfair
+1914,not potentially unfair
+1915,potentially unfair
+1916,potentially unfair
+1917,potentially unfair
+1918,not potentially unfair
+1919,not potentially unfair
+1920,not potentially unfair
+1921,not potentially unfair
+1922,not potentially unfair
+1923,potentially unfair
+1924,potentially unfair
+1925,not potentially unfair
+1926,potentially unfair
+1927,not potentially unfair
+1928,not potentially unfair
+1929,potentially unfair
+1930,potentially unfair
+1931,not potentially unfair
+1932,not potentially unfair
+1933,not potentially unfair
+1934,not potentially unfair
+1935,not potentially unfair
+1936,not potentially unfair
+1937,potentially unfair
+1938,potentially unfair
+1939,potentially unfair
+1940,not potentially unfair
+1941,not potentially unfair
+1942,not potentially unfair
+1943,potentially unfair
+1944,potentially unfair
+1945,potentially unfair
+1946,not potentially unfair
+1947,potentially unfair
+1948,not potentially unfair
+1949,potentially unfair
+1950,not potentially unfair
+1951,not potentially unfair
+1952,not potentially unfair
+1953,not potentially unfair
+1954,not potentially unfair
+1955,not potentially unfair
+1956,not potentially unfair
+1957,not potentially unfair
+1958,not potentially unfair
+1959,potentially unfair
+1960,not potentially unfair
+1961,potentially unfair
+1962,not potentially unfair
+1963,not potentially unfair
+1964,potentially unfair
+1965,not potentially unfair
+1966,potentially unfair
+1967,potentially unfair
+1968,not potentially unfair
+1969,not potentially unfair
+1970,potentially unfair
+1971,not potentially unfair
+1972,potentially unfair
+1973,potentially unfair
+1974,not potentially unfair
+1975,not potentially unfair
+1976,potentially unfair
+1977,not potentially unfair
+1978,not potentially unfair
+1979,not potentially unfair
+1980,potentially unfair
+1981,not potentially unfair
+1982,not potentially unfair
+1983,potentially unfair
+1984,not potentially unfair
+1985,potentially unfair
+1986,not potentially unfair
+1987,not potentially unfair
+1988,potentially unfair
+1989,not potentially unfair
+1990,potentially unfair
+1991,not potentially unfair
+1992,potentially unfair
+1993,potentially unfair
+1994,potentially unfair
+1995,potentially unfair
+1996,not potentially unfair
+1997,potentially unfair
+1998,potentially unfair
+1999,potentially unfair
+2000,not potentially unfair
+2001,not potentially unfair
+2002,potentially unfair
+2003,not potentially unfair
+2004,not potentially unfair
+2005,not potentially unfair
+2006,not potentially unfair
+2007,not potentially unfair
+2008,not potentially unfair
+2009,not potentially unfair
+2010,not potentially unfair
+2011,not potentially unfair
+2012,not potentially unfair
+2013,potentially unfair
+2014,not potentially unfair
+2015,potentially unfair
+2016,potentially unfair
+2017,not potentially unfair
+2018,not potentially unfair
+2019,potentially unfair
+2020,potentially unfair
+2021,potentially unfair
+2022,potentially unfair
+2023,potentially unfair
+2024,potentially unfair
+2025,potentially unfair
+2026,not potentially unfair
+2027,not potentially unfair
+2028,not potentially unfair
+2029,potentially unfair
+2030,potentially unfair
+2031,not potentially unfair
+2032,not potentially unfair
+2033,potentially unfair
+2034,potentially unfair
+2035,potentially unfair
+2036,potentially unfair
+2037,potentially unfair
+2038,potentially unfair
+2039,potentially unfair
+2040,not potentially unfair
+2041,not potentially unfair
+2042,potentially unfair
+2043,potentially unfair
+2044,not potentially unfair
+2045,potentially unfair
+2046,not potentially unfair
+2047,not potentially unfair
+2048,not potentially unfair
+2049,not potentially unfair
+2050,not potentially unfair
+2051,not potentially unfair
+2052,potentially unfair
+2053,potentially unfair
+2054,potentially unfair
+2055,not potentially unfair
+2056,not potentially unfair
+2057,not potentially unfair
+2058,potentially unfair
+2059,not potentially unfair
+2060,not potentially unfair
+2061,not potentially unfair
+2062,potentially unfair
+2063,potentially unfair
+2064,not potentially unfair
+2065,not potentially unfair
+2066,potentially unfair
+2067,not potentially unfair
+2068,potentially unfair
+2069,not potentially unfair
+2070,not potentially unfair
+2071,potentially unfair
+2072,potentially unfair
+2073,not potentially unfair
+2074,not potentially unfair
+2075,potentially unfair
+2076,potentially unfair
+2077,not potentially unfair
+2078,not potentially unfair
+2079,not potentially unfair
+2080,not potentially unfair
+2081,potentially unfair
+2082,not potentially unfair
+2083,not potentially unfair
+2084,potentially unfair
+2085,not potentially unfair
+2086,not potentially unfair
+2087,potentially unfair
+2088,not potentially unfair
+2089,not potentially unfair
+2090,potentially unfair
+2091,not potentially unfair
+2092,not potentially unfair
+2093,not potentially unfair
+2094,potentially unfair
+2095,potentially unfair
+2096,not potentially unfair
+2097,not potentially unfair
+2098,not potentially unfair
+2099,potentially unfair
+2100,not potentially unfair
+2101,potentially unfair
+2102,not potentially unfair
+2103,potentially unfair
+2104,not potentially unfair
+2105,potentially unfair
+2106,not potentially unfair
+2107,potentially unfair
+2108,not potentially unfair
+2109,potentially unfair
+2110,potentially unfair
+2111,not potentially unfair
+2112,potentially unfair
+2113,not potentially unfair
+2114,not potentially unfair
+2115,not potentially unfair
+2116,not potentially unfair
+2117,not potentially unfair
+2118,potentially unfair
+2119,potentially unfair
+2120,potentially unfair
+2121,potentially unfair
+2122,potentially unfair
+2123,potentially unfair
+2124,potentially unfair
+2125,not potentially unfair
+2126,potentially unfair
+2127,potentially unfair
+2128,not potentially unfair
+2129,potentially unfair
+2130,potentially unfair
+2131,potentially unfair
+2132,potentially unfair
+2133,potentially unfair
+2134,potentially unfair
+2135,not potentially unfair
+2136,not potentially unfair
+2137,not potentially unfair
+2138,potentially unfair
+2139,potentially unfair
+2140,not potentially unfair
+2141,not potentially unfair
+2142,potentially unfair
+2143,potentially unfair
+2144,not potentially unfair
+2145,not potentially unfair
+2146,not potentially unfair
+2147,not potentially unfair
+2148,potentially unfair
+2149,not potentially unfair
+2150,potentially unfair
+2151,not potentially unfair
+2152,potentially unfair
+2153,not potentially unfair
+2154,potentially unfair
+2155,not potentially unfair
+2156,not potentially unfair
+2157,potentially unfair
+2158,not potentially unfair
+2159,not potentially unfair
+2160,potentially unfair
+2161,potentially unfair
+2162,not potentially unfair
+2163,not potentially unfair
+2164,potentially unfair
+2165,not potentially unfair
+2166,not potentially unfair
+2167,not potentially unfair
+2168,not potentially unfair
+2169,not potentially unfair
+2170,not potentially unfair
+2171,potentially unfair
+2172,not potentially unfair
+2173,potentially unfair
+2174,potentially unfair
+2175,not potentially unfair
+2176,potentially unfair
+2177,potentially unfair
+2178,potentially unfair
+2179,not potentially unfair
+2180,potentially unfair
+2181,potentially unfair
+2182,not potentially unfair
+2183,not potentially unfair
+2184,potentially unfair
+2185,potentially unfair
+2186,potentially unfair
+2187,not potentially unfair
+2188,potentially unfair
+2189,potentially unfair
+2190,not potentially unfair
+2191,potentially unfair
+2192,not potentially unfair
+2193,not potentially unfair
+2194,potentially unfair
+2195,potentially unfair
+2196,potentially unfair
+2197,not potentially unfair
+2198,potentially unfair
+2199,potentially unfair
+2200,not potentially unfair
+2201,not potentially unfair
+2202,not potentially unfair
+2203,potentially unfair
+2204,not potentially unfair
+2205,potentially unfair
+2206,potentially unfair
+2207,not potentially unfair
+2208,potentially unfair
+2209,not potentially unfair
+2210,not potentially unfair
+2211,potentially unfair
+2212,potentially unfair
+2213,not potentially unfair
+2214,potentially unfair
+2215,not potentially unfair
+2216,not potentially unfair
+2217,not potentially unfair
+2218,not potentially unfair
+2219,not potentially unfair
+2220,not potentially unfair
+2221,not potentially unfair
+2222,not potentially unfair
+2223,potentially unfair
+2224,not potentially unfair
+2225,potentially unfair
+2226,potentially unfair
+2227,potentially unfair
+2228,potentially unfair
+2229,potentially unfair
+2230,potentially unfair
+2231,not potentially unfair
+2232,potentially unfair
+2233,potentially unfair
+2234,potentially unfair
+2235,not potentially unfair
+2236,potentially unfair
+2237,potentially unfair
+2238,potentially unfair
+2239,not potentially unfair
+2240,potentially unfair
+2241,potentially unfair
+2242,potentially unfair
+2243,potentially unfair
+2244,potentially unfair
+2245,not potentially unfair
+2246,not potentially unfair
+2247,not potentially unfair
+2248,not potentially unfair
+2249,not potentially unfair
+2250,potentially unfair
+2251,potentially unfair
+2252,potentially unfair
+2253,not potentially unfair
+2254,not potentially unfair
+2255,potentially unfair
+2256,not potentially unfair
+2257,potentially unfair
+2258,potentially unfair
+2259,not potentially unfair
+2260,not potentially unfair
+2261,potentially unfair
+2262,not potentially unfair
+2263,potentially unfair
+2264,not potentially unfair
+2265,not potentially unfair
+2266,not potentially unfair
+2267,potentially unfair
+2268,not potentially unfair
+2269,potentially unfair
+2270,potentially unfair
+2271,potentially unfair
+2272,not potentially unfair
+2273,not potentially unfair
+2274,potentially unfair
+2275,potentially unfair
+2276,not potentially unfair
+2277,potentially unfair
+2278,not potentially unfair
+2279,not potentially unfair
+2280,not potentially unfair
+2281,potentially unfair
+2282,not potentially unfair
+2283,potentially unfair
+2284,potentially unfair
+2285,potentially unfair
+2286,potentially unfair
+2287,not potentially unfair
+2288,potentially unfair
+2289,potentially unfair
+2290,potentially unfair
+2291,not potentially unfair
+2292,potentially unfair
+2293,potentially unfair
+2294,potentially unfair
+2295,not potentially unfair
+2296,potentially unfair
+2297,not potentially unfair
+2298,potentially unfair
+2299,not potentially unfair
+2300,not potentially unfair
+2301,potentially unfair
+2302,potentially unfair
+2303,potentially unfair
+2304,potentially unfair
+2305,potentially unfair
+2306,potentially unfair
+2307,potentially unfair
+2308,potentially unfair
+2309,not potentially unfair
+2310,potentially unfair
+2311,potentially unfair
+2312,not potentially unfair
+2313,potentially unfair
+2314,potentially unfair
+2315,potentially unfair
+2316,not potentially unfair
+2317,not potentially unfair
+2318,not potentially unfair
+2319,potentially unfair
+2320,not potentially unfair
+2321,potentially unfair
+2322,not potentially unfair
+2323,potentially unfair
+2324,not potentially unfair
+2325,not potentially unfair
+2326,not potentially unfair
+2327,not potentially unfair
+2328,potentially unfair
+2329,not potentially unfair
+2330,not potentially unfair
+2331,not potentially unfair
+2332,not potentially unfair
+2333,potentially unfair
+2334,potentially unfair
+2335,not potentially unfair
+2336,not potentially unfair
+2337,potentially unfair
+2338,not potentially unfair
+2339,potentially unfair
+2340,potentially unfair
+2341,potentially unfair
+2342,potentially unfair
+2343,not potentially unfair
+2344,potentially unfair
+2345,not potentially unfair
+2346,potentially unfair
+2347,potentially unfair
+2348,potentially unfair
+2349,potentially unfair
+2350,potentially unfair
+2351,potentially unfair
+2352,not potentially unfair
+2353,not potentially unfair
+2354,potentially unfair
+2355,potentially unfair
+2356,not potentially unfair
+2357,potentially unfair
+2358,not potentially unfair
+2359,potentially unfair
+2360,not potentially unfair
+2361,not potentially unfair
+2362,not potentially unfair
+2363,not potentially unfair
+2364,potentially unfair
+2365,potentially unfair
+2366,not potentially unfair
+2367,potentially unfair
+2368,potentially unfair
+2369,not potentially unfair
+2370,potentially unfair
+2371,potentially unfair
+2372,not potentially unfair
+2373,potentially unfair
+2374,not potentially unfair
+2375,not potentially unfair
+2376,not potentially unfair
+2377,not potentially unfair
+2378,potentially unfair
+2379,not potentially unfair
+2380,not potentially unfair
+2381,not potentially unfair
+2382,potentially unfair
+2383,potentially unfair
+2384,potentially unfair
+2385,not potentially unfair
+2386,potentially unfair
+2387,potentially unfair
+2388,potentially unfair
+2389,not potentially unfair
+2390,potentially unfair
+2391,potentially unfair
+2392,not potentially unfair
+2393,not potentially unfair
+2394,potentially unfair
+2395,potentially unfair
+2396,potentially unfair
+2397,potentially unfair
+2398,not potentially unfair
+2399,not potentially unfair
+2400,potentially unfair
+2401,not potentially unfair
+2402,potentially unfair
+2403,not potentially unfair
+2404,not potentially unfair
+2405,potentially unfair
+2406,potentially unfair
+2407,potentially unfair
+2408,potentially unfair
+2409,potentially unfair
+2410,potentially unfair
+2411,not potentially unfair
+2412,not potentially unfair
+2413,potentially unfair
+2414,potentially unfair
+2415,potentially unfair
+2416,not potentially unfair
+2417,not potentially unfair
+2418,potentially unfair
+2419,potentially unfair
+2420,potentially unfair
+2421,not potentially unfair
+2422,potentially unfair
+2423,potentially unfair
+2424,potentially unfair
+2425,not potentially unfair
+2426,not potentially unfair
+2427,not potentially unfair
+2428,potentially unfair
+2429,potentially unfair
+2430,potentially unfair
+2431,not potentially unfair
+2432,not potentially unfair
+2433,potentially unfair
+2434,potentially unfair
+2435,not potentially unfair
+2436,not potentially unfair
+2437,not potentially unfair
+2438,not potentially unfair
+2439,not potentially unfair
+2440,potentially unfair
+2441,not potentially unfair
+2442,potentially unfair
+2443,not potentially unfair
+2444,not potentially unfair
+2445,potentially unfair
+2446,not potentially unfair
+2447,not potentially unfair
+2448,not potentially unfair
+2449,not potentially unfair
+2450,potentially unfair
+2451,potentially unfair
+2452,potentially unfair
+2453,potentially unfair
+2454,potentially unfair
+2455,potentially unfair
+2456,not potentially unfair
+2457,potentially unfair
+2458,potentially unfair
+2459,not potentially unfair
+2460,potentially unfair
+2461,potentially unfair
+2462,not potentially unfair
+2463,potentially unfair
+2464,potentially unfair
+2465,not potentially unfair
+2466,potentially unfair
+2467,not potentially unfair
+2468,not potentially unfair
+2469,potentially unfair
+2470,potentially unfair
+2471,potentially unfair
+2472,potentially unfair
+2473,potentially unfair
+2474,not potentially unfair
+2475,potentially unfair
+2476,potentially unfair
+2477,not potentially unfair
+2478,not potentially unfair
+2479,not potentially unfair
+2480,potentially unfair
+2481,potentially unfair
+2482,not potentially unfair
+2483,not potentially unfair
+2484,not potentially unfair
+2485,potentially unfair
+2486,not potentially unfair
+2487,not potentially unfair
+2488,not potentially unfair
+2489,potentially unfair
+2490,potentially unfair
+2491,potentially unfair
+2492,not potentially unfair
+2493,not potentially unfair
+2494,not potentially unfair
+2495,not potentially unfair
+2496,potentially unfair
+2497,potentially unfair
+2498,not potentially unfair
+2499,potentially unfair
+2500,not potentially unfair
+2501,not potentially unfair
+2502,potentially unfair
+2503,potentially unfair
+2504,not potentially unfair
+2505,not potentially unfair
+2506,potentially unfair
+2507,potentially unfair
+2508,potentially unfair
+2509,potentially unfair
+2510,potentially unfair
+2511,potentially unfair
+2512,not potentially unfair
+2513,not potentially unfair
+2514,potentially unfair
+2515,not potentially unfair
+2516,not potentially unfair
+2517,not potentially unfair
+2518,not potentially unfair
+2519,not potentially unfair
+2520,potentially unfair
+2521,potentially unfair
+2522,not potentially unfair
+2523,not potentially unfair
+2524,not potentially unfair
+2525,potentially unfair
+2526,not potentially unfair
+2527,potentially unfair
+2528,potentially unfair
+2529,not potentially unfair
+2530,not potentially unfair
+2531,not potentially unfair
+2532,not potentially unfair
+2533,potentially unfair
+2534,not potentially unfair
+2535,potentially unfair
+2536,potentially unfair
+2537,not potentially unfair
+2538,not potentially unfair
+2539,potentially unfair
+2540,potentially unfair
+2541,potentially unfair
+2542,potentially unfair
+2543,potentially unfair
+2544,not potentially unfair
+2545,not potentially unfair
+2546,not potentially unfair
+2547,potentially unfair
+2548,not potentially unfair
+2549,potentially unfair
+2550,not potentially unfair
+2551,not potentially unfair
+2552,potentially unfair
+2553,potentially unfair
+2554,not potentially unfair
+2555,potentially unfair
+2556,potentially unfair
+2557,potentially unfair
+2558,potentially unfair
+2559,potentially unfair
+2560,potentially unfair
+2561,not potentially unfair
+2562,not potentially unfair
+2563,not potentially unfair
+2564,potentially unfair
+2565,not potentially unfair
+2566,potentially unfair
+2567,potentially unfair
+2568,not potentially unfair
+2569,not potentially unfair
+2570,not potentially unfair
+2571,potentially unfair
+2572,not potentially unfair
+2573,not potentially unfair
+2574,potentially unfair
+2575,not potentially unfair
+2576,not potentially unfair
+2577,potentially unfair
+2578,not potentially unfair
+2579,not potentially unfair
+2580,not potentially unfair
+2581,not potentially unfair
+2582,potentially unfair
+2583,not potentially unfair
+2584,potentially unfair
+2585,not potentially unfair
+2586,not potentially unfair
+2587,potentially unfair
+2588,potentially unfair
+2589,not potentially unfair
+2590,not potentially unfair
+2591,potentially unfair
+2592,not potentially unfair
+2593,not potentially unfair
+2594,not potentially unfair
+2595,potentially unfair
+2596,not potentially unfair
+2597,potentially unfair
+2598,not potentially unfair
+2599,not potentially unfair
+2600,potentially unfair
+2601,potentially unfair
+2602,potentially unfair
+2603,not potentially unfair
+2604,potentially unfair
+2605,potentially unfair
+2606,potentially unfair
+2607,potentially unfair
+2608,not potentially unfair
+2609,potentially unfair
+2610,potentially unfair
+2611,not potentially unfair
+2612,not potentially unfair
+2613,not potentially unfair
+2614,not potentially unfair
+2615,not potentially unfair
+2616,not potentially unfair
+2617,potentially unfair
+2618,not potentially unfair
+2619,potentially unfair
+2620,potentially unfair
+2621,potentially unfair
+2622,potentially unfair
+2623,not potentially unfair
+2624,not potentially unfair
+2625,potentially unfair
+2626,not potentially unfair
+2627,not potentially unfair
+2628,potentially unfair
+2629,potentially unfair
+2630,not potentially unfair
+2631,potentially unfair
+2632,potentially unfair
+2633,potentially unfair
+2634,potentially unfair
+2635,not potentially unfair
+2636,potentially unfair
+2637,not potentially unfair
+2638,not potentially unfair
+2639,potentially unfair
+2640,not potentially unfair
+2641,potentially unfair
+2642,potentially unfair
+2643,potentially unfair
+2644,potentially unfair
+2645,not potentially unfair
+2646,not potentially unfair
+2647,not potentially unfair
+2648,potentially unfair
+2649,not potentially unfair
+2650,not potentially unfair
+2651,potentially unfair
+2652,potentially unfair
+2653,not potentially unfair
+2654,potentially unfair
+2655,not potentially unfair
+2656,potentially unfair
+2657,potentially unfair
+2658,potentially unfair
+2659,not potentially unfair
+2660,potentially unfair
+2661,potentially unfair
+2662,potentially unfair
+2663,not potentially unfair
+2664,potentially unfair
+2665,not potentially unfair
+2666,not potentially unfair
+2667,not potentially unfair
+2668,potentially unfair
+2669,not potentially unfair
+2670,not potentially unfair
+2671,not potentially unfair
+2672,potentially unfair
+2673,not potentially unfair
+2674,not potentially unfair
+2675,not potentially unfair
+2676,not potentially unfair
+2677,potentially unfair
+2678,potentially unfair
+2679,not potentially unfair
+2680,not potentially unfair
+2681,potentially unfair
+2682,not potentially unfair
+2683,potentially unfair
+2684,potentially unfair
+2685,not potentially unfair
+2686,potentially unfair
+2687,potentially unfair
+2688,potentially unfair
+2689,potentially unfair
+2690,not potentially unfair
+2691,not potentially unfair
+2692,potentially unfair
+2693,potentially unfair
+2694,not potentially unfair
+2695,not potentially unfair
+2696,not potentially unfair
+2697,not potentially unfair
+2698,potentially unfair
+2699,not potentially unfair
+2700,not potentially unfair
+2701,not potentially unfair
+2702,not potentially unfair
+2703,potentially unfair
+2704,not potentially unfair
+2705,not potentially unfair
+2706,not potentially unfair
+2707,potentially unfair
+2708,not potentially unfair
+2709,not potentially unfair
+2710,not potentially unfair
+2711,not potentially unfair
+2712,potentially unfair
+2713,not potentially unfair
+2714,potentially unfair
+2715,not potentially unfair
+2716,potentially unfair
+2717,not potentially unfair
+2718,not potentially unfair
+2719,not potentially unfair
+2720,not potentially unfair
+2721,not potentially unfair
+2722,potentially unfair
+2723,not potentially unfair
+2724,potentially unfair
+2725,potentially unfair
+2726,not potentially unfair
+2727,not potentially unfair
+2728,potentially unfair
+2729,potentially unfair
+2730,potentially unfair
+2731,not potentially unfair
+2732,not potentially unfair
+2733,not potentially unfair
+2734,not potentially unfair
+2735,not potentially unfair
+2736,potentially unfair
+2737,not potentially unfair
+2738,potentially unfair
+2739,not potentially unfair
+2740,potentially unfair
+2741,potentially unfair
+2742,not potentially unfair
+2743,not potentially unfair
+2744,not potentially unfair
+2745,not potentially unfair
+2746,not potentially unfair
+2747,not potentially unfair
+2748,potentially unfair
+2749,potentially unfair
+2750,not potentially unfair
+2751,not potentially unfair
+2752,not potentially unfair
+2753,not potentially unfair
+2754,not potentially unfair
+2755,not potentially unfair
+2756,potentially unfair
+2757,potentially unfair
+2758,not potentially unfair
+2759,not potentially unfair
+2760,not potentially unfair
+2761,potentially unfair
+2762,not potentially unfair
+2763,potentially unfair
+2764,potentially unfair
+2765,potentially unfair
+2766,potentially unfair
+2767,not potentially unfair
+2768,not potentially unfair
+2769,potentially unfair
+2770,potentially unfair
+2771,potentially unfair
+2772,potentially unfair
+2773,not potentially unfair
+2774,potentially unfair
+2775,not potentially unfair
+2776,not potentially unfair
+2777,not potentially unfair
+2778,potentially unfair
+2779,potentially unfair
+2780,potentially unfair
+2781,potentially unfair
+2782,not potentially unfair
+2783,not potentially unfair
+2784,potentially unfair
+2785,potentially unfair
+2786,potentially unfair
+2787,not potentially unfair
+2788,potentially unfair
+2789,potentially unfair
+2790,potentially unfair
+2791,potentially unfair
+2792,potentially unfair
+2793,not potentially unfair
+2794,not potentially unfair
+2795,potentially unfair
+2796,not potentially unfair
+2797,not potentially unfair
+2798,potentially unfair
+2799,not potentially unfair
+2800,not potentially unfair
+2801,not potentially unfair
+2802,potentially unfair
+2803,not potentially unfair
+2804,not potentially unfair
+2805,not potentially unfair
+2806,potentially unfair
+2807,potentially unfair
+2808,not potentially unfair
+2809,not potentially unfair
+2810,not potentially unfair
+2811,potentially unfair
+2812,not potentially unfair
+2813,not potentially unfair
+2814,potentially unfair
+2815,not potentially unfair
+2816,not potentially unfair
+2817,potentially unfair
+2818,not potentially unfair
+2819,potentially unfair
+2820,not potentially unfair
+2821,not potentially unfair
+2822,not potentially unfair
+2823,potentially unfair
+2824,not potentially unfair
+2825,potentially unfair
+2826,potentially unfair
+2827,not potentially unfair
+2828,not potentially unfair
+2829,potentially unfair
+2830,not potentially unfair
+2831,not potentially unfair
+2832,not potentially unfair
+2833,not potentially unfair
+2834,potentially unfair
+2835,not potentially unfair
+2836,potentially unfair
+2837,not potentially unfair
+2838,not potentially unfair
+2839,potentially unfair
+2840,potentially unfair
+2841,potentially unfair
+2842,potentially unfair
+2843,not potentially unfair
+2844,not potentially unfair
+2845,not potentially unfair
+2846,not potentially unfair
+2847,not potentially unfair
+2848,not potentially unfair
+2849,potentially unfair
+2850,potentially unfair
+2851,not potentially unfair
+2852,potentially unfair
+2853,not potentially unfair
+2854,not potentially unfair
+2855,not potentially unfair
+2856,potentially unfair
+2857,not potentially unfair
+2858,potentially unfair
+2859,not potentially unfair
+2860,not potentially unfair
+2861,not potentially unfair
+2862,potentially unfair
+2863,not potentially unfair
+2864,not potentially unfair
+2865,potentially unfair
+2866,potentially unfair
+2867,not potentially unfair
+2868,not potentially unfair
+2869,not potentially unfair
+2870,potentially unfair
+2871,potentially unfair
+2872,not potentially unfair
+2873,potentially unfair
+2874,not potentially unfair
+2875,not potentially unfair
+2876,not potentially unfair
+2877,potentially unfair
+2878,not potentially unfair
+2879,potentially unfair
+2880,potentially unfair
+2881,potentially unfair
+2882,potentially unfair
+2883,not potentially unfair
+2884,potentially unfair
+2885,not potentially unfair
+2886,not potentially unfair
+2887,potentially unfair
+2888,potentially unfair
+2889,not potentially unfair
+2890,not potentially unfair
+2891,not potentially unfair
+2892,potentially unfair
+2893,potentially unfair
+2894,potentially unfair
+2895,potentially unfair
+2896,potentially unfair
+2897,not potentially unfair
+2898,potentially unfair
+2899,potentially unfair
+2900,not potentially unfair
+2901,not potentially unfair
+2902,potentially unfair
+2903,not potentially unfair
+2904,not potentially unfair
+2905,potentially unfair
+2906,not potentially unfair
+2907,not potentially unfair
+2908,not potentially unfair
+2909,not potentially unfair
+2910,not potentially unfair
+2911,not potentially unfair
+2912,not potentially unfair
+2913,potentially unfair
+2914,potentially unfair
+2915,not potentially unfair
+2916,not potentially unfair
+2917,not potentially unfair
+2918,potentially unfair
+2919,not potentially unfair
+2920,not potentially unfair
+2921,not potentially unfair
+2922,not potentially unfair
+2923,potentially unfair
+2924,potentially unfair
+2925,not potentially unfair
+2926,not potentially unfair
+2927,not potentially unfair
+2928,potentially unfair
+2929,not potentially unfair
+2930,not potentially unfair
+2931,not potentially unfair
+2932,potentially unfair
+2933,not potentially unfair
+2934,potentially unfair
+2935,potentially unfair
+2936,not potentially unfair
+2937,potentially unfair
+2938,not potentially unfair
+2939,potentially unfair
+2940,not potentially unfair
+2941,potentially unfair
+2942,not potentially unfair
+2943,not potentially unfair
+2944,not potentially unfair
+2945,not potentially unfair
+2946,potentially unfair
+2947,potentially unfair
+2948,not potentially unfair
+2949,not potentially unfair
+2950,potentially unfair
+2951,potentially unfair
+2952,not potentially unfair
+2953,potentially unfair
+2954,not potentially unfair
+2955,not potentially unfair
+2956,not potentially unfair
+2957,not potentially unfair
+2958,potentially unfair
+2959,potentially unfair
+2960,not potentially unfair
+2961,not potentially unfair
+2962,potentially unfair
+2963,not potentially unfair
+2964,potentially unfair
+2965,not potentially unfair
+2966,not potentially unfair
+2967,not potentially unfair
+2968,not potentially unfair
+2969,potentially unfair
+2970,not potentially unfair
+2971,not potentially unfair
+2972,potentially unfair
+2973,not potentially unfair
+2974,potentially unfair
+2975,potentially unfair
+2976,potentially unfair
+2977,potentially unfair
+2978,potentially unfair
+2979,not potentially unfair
+2980,not potentially unfair
+2981,potentially unfair
+2982,not potentially unfair
+2983,potentially unfair
+2984,not potentially unfair
+2985,potentially unfair
+2986,not potentially unfair
+2987,potentially unfair
+2988,potentially unfair
+2989,potentially unfair
+2990,potentially unfair
+2991,potentially unfair
+2992,potentially unfair
+2993,not potentially unfair
+2994,not potentially unfair
+2995,potentially unfair
+2996,not potentially unfair
+2997,potentially unfair
+2998,not potentially unfair
+2999,potentially unfair
+3000,potentially unfair
+3001,not potentially unfair
+3002,not potentially unfair
+3003,not potentially unfair
+3004,potentially unfair
+3005,potentially unfair
+3006,not potentially unfair
+3007,potentially unfair
+3008,potentially unfair
+3009,not potentially unfair
+3010,potentially unfair
+3011,not potentially unfair
+3012,potentially unfair
+3013,not potentially unfair
+3014,potentially unfair
+3015,not potentially unfair
+3016,potentially unfair
+3017,potentially unfair
+3018,potentially unfair
+3019,potentially unfair
+3020,not potentially unfair
+3021,potentially unfair
+3022,not potentially unfair
+3023,potentially unfair
+3024,not potentially unfair
+3025,potentially unfair
+3026,potentially unfair
+3027,potentially unfair
+3028,not potentially unfair
+3029,potentially unfair
+3030,not potentially unfair
+3031,potentially unfair
+3032,potentially unfair
+3033,not potentially unfair
+3034,not potentially unfair
+3035,not potentially unfair
+3036,potentially unfair
+3037,not potentially unfair
+3038,potentially unfair
+3039,not potentially unfair
+3040,potentially unfair
+3041,potentially unfair
+3042,potentially unfair
+3043,not potentially unfair
+3044,not potentially unfair
+3045,not potentially unfair
+3046,not potentially unfair
+3047,not potentially unfair
+3048,not potentially unfair
+3049,potentially unfair
+3050,not potentially unfair
+3051,not potentially unfair
+3052,potentially unfair
+3053,potentially unfair
+3054,potentially unfair
+3055,not potentially unfair
+3056,not potentially unfair
+3057,potentially unfair
+3058,potentially unfair
+3059,not potentially unfair
+3060,not potentially unfair
+3061,not potentially unfair
+3062,potentially unfair
+3063,not potentially unfair
+3064,potentially unfair
+3065,potentially unfair
+3066,potentially unfair
+3067,not potentially unfair
+3068,potentially unfair
+3069,potentially unfair
+3070,potentially unfair
+3071,not potentially unfair
+3072,not potentially unfair
+3073,not potentially unfair
+3074,potentially unfair
+3075,not potentially unfair
+3076,potentially unfair
+3077,not potentially unfair
+3078,not potentially unfair
+3079,potentially unfair
+3080,potentially unfair
+3081,potentially unfair
+3082,potentially unfair
+3083,potentially unfair
+3084,not potentially unfair
+3085,not potentially unfair
+3086,potentially unfair
+3087,not potentially unfair
+3088,not potentially unfair
+3089,potentially unfair
+3090,potentially unfair
+3091,not potentially unfair
+3092,not potentially unfair
+3093,potentially unfair
+3094,not potentially unfair
+3095,not potentially unfair
+3096,not potentially unfair
+3097,potentially unfair
+3098,not potentially unfair
+3099,potentially unfair
+3100,not potentially unfair
+3101,not potentially unfair
+3102,not potentially unfair
+3103,potentially unfair
+3104,not potentially unfair
+3105,not potentially unfair
+3106,potentially unfair
+3107,not potentially unfair
+3108,not potentially unfair
+3109,potentially unfair
+3110,potentially unfair
+3111,not potentially unfair
+3112,not potentially unfair
+3113,potentially unfair
+3114,potentially unfair
+3115,potentially unfair
+3116,not potentially unfair
+3117,potentially unfair
+3118,not potentially unfair
+3119,not potentially unfair
+3120,potentially unfair
+3121,potentially unfair
+3122,potentially unfair
+3123,not potentially unfair
+3124,potentially unfair
+3125,not potentially unfair
+3126,not potentially unfair
+3127,not potentially unfair
+3128,potentially unfair
+3129,potentially unfair
+3130,potentially unfair
+3131,not potentially unfair
+3132,not potentially unfair
+3133,not potentially unfair
+3134,potentially unfair
+3135,potentially unfair
+3136,potentially unfair
+3137,not potentially unfair
+3138,potentially unfair
+3139,potentially unfair
+3140,not potentially unfair
+3141,not potentially unfair
+3142,not potentially unfair
+3143,potentially unfair
+3144,potentially unfair
+3145,not potentially unfair
+3146,potentially unfair
+3147,not potentially unfair
+3148,not potentially unfair
+3149,potentially unfair
+3150,potentially unfair
+3151,not potentially unfair
+3152,potentially unfair
+3153,not potentially unfair
+3154,potentially unfair
+3155,potentially unfair
+3156,not potentially unfair
+3157,not potentially unfair
+3158,not potentially unfair
+3159,potentially unfair
+3160,not potentially unfair
+3161,not potentially unfair
+3162,potentially unfair
+3163,not potentially unfair
+3164,not potentially unfair
+3165,potentially unfair
+3166,potentially unfair
+3167,not potentially unfair
+3168,not potentially unfair
+3169,potentially unfair
+3170,not potentially unfair
+3171,potentially unfair
+3172,potentially unfair
+3173,not potentially unfair
+3174,potentially unfair
+3175,potentially unfair
+3176,potentially unfair
+3177,potentially unfair
+3178,potentially unfair
+3179,potentially unfair
+3180,potentially unfair
+3181,potentially unfair
+3182,not potentially unfair
+3183,not potentially unfair
+3184,potentially unfair
+3185,not potentially unfair
+3186,not potentially unfair
+3187,potentially unfair
+3188,not potentially unfair
+3189,not potentially unfair
+3190,not potentially unfair
+3191,potentially unfair
+3192,not potentially unfair
+3193,not potentially unfair
+3194,potentially unfair
+3195,potentially unfair
+3196,not potentially unfair
+3197,potentially unfair
+3198,not potentially unfair
+3199,potentially unfair
+3200,potentially unfair
+3201,not potentially unfair
+3202,not potentially unfair
+3203,not potentially unfair
+3204,potentially unfair
+3205,potentially unfair
+3206,potentially unfair
+3207,not potentially unfair
+3208,not potentially unfair
+3209,potentially unfair
+3210,not potentially unfair
+3211,not potentially unfair
+3212,not potentially unfair
+3213,potentially unfair
+3214,potentially unfair
+3215,not potentially unfair
+3216,potentially unfair
+3217,not potentially unfair
+3218,potentially unfair
+3219,potentially unfair
+3220,potentially unfair
+3221,potentially unfair
+3222,not potentially unfair
+3223,potentially unfair
+3224,potentially unfair
+3225,potentially unfair
+3226,potentially unfair
+3227,potentially unfair
+3228,potentially unfair
+3229,potentially unfair
+3230,not potentially unfair
+3231,not potentially unfair
+3232,not potentially unfair
+3233,potentially unfair
+3234,not potentially unfair
+3235,potentially unfair
+3236,potentially unfair
+3237,potentially unfair
+3238,not potentially unfair
+3239,potentially unfair
+3240,potentially unfair
+3241,not potentially unfair
+3242,not potentially unfair
+3243,potentially unfair
+3244,potentially unfair
+3245,not potentially unfair
+3246,not potentially unfair
+3247,potentially unfair
+3248,potentially unfair
+3249,potentially unfair
+3250,not potentially unfair
+3251,potentially unfair
+3252,potentially unfair
+3253,potentially unfair
+3254,not potentially unfair
+3255,not potentially unfair
+3256,potentially unfair
+3257,potentially unfair
+3258,not potentially unfair
+3259,not potentially unfair
+3260,potentially unfair
+3261,not potentially unfair
+3262,potentially unfair
+3263,not potentially unfair
+3264,not potentially unfair
+3265,not potentially unfair
+3266,potentially unfair
+3267,not potentially unfair
+3268,potentially unfair
+3269,potentially unfair
+3270,not potentially unfair
+3271,potentially unfair
+3272,not potentially unfair
+3273,not potentially unfair
+3274,potentially unfair
+3275,potentially unfair
+3276,not potentially unfair
+3277,potentially unfair
+3278,potentially unfair
+3279,potentially unfair
+3280,potentially unfair
+3281,not potentially unfair
+3282,not potentially unfair
+3283,potentially unfair
+3284,potentially unfair
+3285,not potentially unfair
+3286,potentially unfair
+3287,not potentially unfair
+3288,potentially unfair
+3289,potentially unfair
+3290,not potentially unfair
+3291,potentially unfair
+3292,not potentially unfair
+3293,potentially unfair
+3294,not potentially unfair
+3295,potentially unfair
+3296,potentially unfair
+3297,potentially unfair
+3298,not potentially unfair
+3299,potentially unfair
+3300,not potentially unfair
+3301,not potentially unfair
+3302,potentially unfair
+3303,potentially unfair
+3304,not potentially unfair
+3305,potentially unfair
+3306,not potentially unfair
+3307,potentially unfair
+3308,not potentially unfair
+3309,potentially unfair
+3310,potentially unfair
+3311,potentially unfair
+3312,potentially unfair
+3313,potentially unfair
+3314,not potentially unfair
+3315,not potentially unfair
+3316,not potentially unfair
+3317,potentially unfair
+3318,not potentially unfair
+3319,potentially unfair
+3320,not potentially unfair
+3321,not potentially unfair
+3322,not potentially unfair
+3323,not potentially unfair
+3324,potentially unfair
+3325,not potentially unfair
+3326,not potentially unfair
+3327,not potentially unfair
+3328,potentially unfair
+3329,not potentially unfair
+3330,not potentially unfair
+3331,not potentially unfair
+3332,not potentially unfair
+3333,not potentially unfair
+3334,not potentially unfair
+3335,potentially unfair
+3336,not potentially unfair
+3337,not potentially unfair
+3338,not potentially unfair
+3339,not potentially unfair
+3340,not potentially unfair
+3341,potentially unfair
+3342,potentially unfair
+3343,not potentially unfair
+3344,not potentially unfair
+3345,potentially unfair
+3346,not potentially unfair
+3347,not potentially unfair
+3348,potentially unfair
+3349,not potentially unfair
+3350,not potentially unfair
+3351,not potentially unfair
+3352,potentially unfair
+3353,not potentially unfair
+3354,not potentially unfair
+3355,not potentially unfair
+3356,not potentially unfair
+3357,not potentially unfair
+3358,potentially unfair
+3359,potentially unfair
+3360,not potentially unfair
+3361,potentially unfair
+3362,not potentially unfair
+3363,potentially unfair
+3364,not potentially unfair
+3365,potentially unfair
+3366,potentially unfair
+3367,potentially unfair
+3368,not potentially unfair
+3369,potentially unfair
+3370,not potentially unfair
+3371,not potentially unfair
+3372,potentially unfair
+3373,potentially unfair
+3374,potentially unfair
+3375,potentially unfair
+3376,not potentially unfair
+3377,not potentially unfair
+3378,not potentially unfair
+3379,not potentially unfair
+3380,potentially unfair
+3381,potentially unfair
+3382,potentially unfair
+3383,not potentially unfair
+3384,potentially unfair
+3385,potentially unfair
+3386,potentially unfair
+3387,not potentially unfair
+3388,not potentially unfair
+3389,not potentially unfair
+3390,potentially unfair
+3391,not potentially unfair
+3392,not potentially unfair
+3393,potentially unfair
+3394,potentially unfair
+3395,potentially unfair
+3396,potentially unfair
+3397,not potentially unfair
+3398,not potentially unfair
+3399,potentially unfair
+3400,not potentially unfair
+3401,potentially unfair
+3402,potentially unfair
+3403,potentially unfair
+3404,potentially unfair
+3405,not potentially unfair
+3406,not potentially unfair
+3407,not potentially unfair
+3408,not potentially unfair
+3409,not potentially unfair
+3410,potentially unfair
+3411,not potentially unfair
+3412,not potentially unfair
+3413,not potentially unfair
+3414,potentially unfair
+3415,not potentially unfair
+3416,potentially unfair
+3417,not potentially unfair
+3418,potentially unfair
+3419,potentially unfair
+3420,not potentially unfair
+3421,not potentially unfair
+3422,not potentially unfair
+3423,potentially unfair
+3424,potentially unfair
+3425,potentially unfair
+3426,not potentially unfair
+3427,potentially unfair
+3428,not potentially unfair
+3429,not potentially unfair
+3430,potentially unfair
+3431,not potentially unfair
+3432,not potentially unfair
+3433,potentially unfair
+3434,not potentially unfair
+3435,potentially unfair
+3436,not potentially unfair
+3437,not potentially unfair
+3438,potentially unfair
+3439,potentially unfair
+3440,potentially unfair
+3441,potentially unfair
+3442,not potentially unfair
+3443,potentially unfair
+3444,potentially unfair
+3445,not potentially unfair
+3446,not potentially unfair
+3447,potentially unfair
+3448,not potentially unfair
+3449,potentially unfair
+3450,not potentially unfair
+3451,not potentially unfair
+3452,not potentially unfair
+3453,potentially unfair
+3454,potentially unfair
+3455,not potentially unfair
+3456,potentially unfair
+3457,potentially unfair
+3458,not potentially unfair
+3459,potentially unfair
+3460,not potentially unfair
+3461,potentially unfair
+3462,not potentially unfair
+3463,potentially unfair
+3464,potentially unfair
+3465,not potentially unfair
+3466,potentially unfair
+3467,potentially unfair
+3468,potentially unfair
+3469,potentially unfair
+3470,potentially unfair
+3471,potentially unfair
+3472,not potentially unfair
+3473,not potentially unfair
+3474,potentially unfair
+3475,not potentially unfair
+3476,not potentially unfair
+3477,potentially unfair
+3478,potentially unfair
+3479,not potentially unfair
+3480,not potentially unfair
+3481,potentially unfair
+3482,not potentially unfair
+3483,potentially unfair
+3484,not potentially unfair
+3485,not potentially unfair
+3486,potentially unfair
+3487,not potentially unfair
+3488,not potentially unfair
+3489,potentially unfair
+3490,not potentially unfair
+3491,potentially unfair
+3492,not potentially unfair
+3493,potentially unfair
+3494,potentially unfair
+3495,not potentially unfair
+3496,potentially unfair
+3497,potentially unfair
+3498,not potentially unfair
+3499,potentially unfair
+3500,not potentially unfair
+3501,potentially unfair
+3502,potentially unfair
+3503,potentially unfair
+3504,potentially unfair
+3505,not potentially unfair
+3506,potentially unfair
+3507,not potentially unfair
+3508,not potentially unfair
+3509,not potentially unfair
+3510,potentially unfair
+3511,potentially unfair
+3512,potentially unfair
+3513,potentially unfair
+3514,not potentially unfair
+3515,potentially unfair
+3516,not potentially unfair
+3517,potentially unfair
+3518,potentially unfair
+3519,not potentially unfair
+3520,potentially unfair
+3521,potentially unfair
+3522,not potentially unfair
+3523,potentially unfair
+3524,potentially unfair
+3525,not potentially unfair
+3526,potentially unfair
+3527,potentially unfair
+3528,potentially unfair
+3529,not potentially unfair
+3530,potentially unfair
+3531,not potentially unfair
+3532,not potentially unfair
+3533,potentially unfair
+3534,potentially unfair
+3535,potentially unfair
+3536,not potentially unfair
+3537,not potentially unfair
+3538,potentially unfair
+3539,potentially unfair
+3540,potentially unfair
+3541,not potentially unfair
+3542,not potentially unfair
+3543,potentially unfair
+3544,not potentially unfair
+3545,not potentially unfair
+3546,potentially unfair
+3547,not potentially unfair
+3548,not potentially unfair
+3549,potentially unfair
+3550,not potentially unfair
+3551,not potentially unfair
+3552,not potentially unfair
+3553,potentially unfair
+3554,potentially unfair
+3555,not potentially unfair
+3556,not potentially unfair
+3557,potentially unfair
+3558,not potentially unfair
+3559,potentially unfair
+3560,potentially unfair
+3561,not potentially unfair
+3562,not potentially unfair
+3563,not potentially unfair
+3564,potentially unfair
+3565,not potentially unfair
+3566,potentially unfair
+3567,not potentially unfair
+3568,not potentially unfair
+3569,potentially unfair
+3570,not potentially unfair
+3571,potentially unfair
+3572,not potentially unfair
+3573,not potentially unfair
+3574,not potentially unfair
+3575,potentially unfair
+3576,not potentially unfair
+3577,not potentially unfair
+3578,not potentially unfair
+3579,potentially unfair
+3580,not potentially unfair
+3581,potentially unfair
+3582,potentially unfair
+3583,not potentially unfair
+3584,not potentially unfair
+3585,not potentially unfair
+3586,not potentially unfair
+3587,potentially unfair
+3588,not potentially unfair
+3589,potentially unfair
+3590,potentially unfair
+3591,potentially unfair
+3592,potentially unfair
+3593,potentially unfair
+3594,not potentially unfair
+3595,not potentially unfair
+3596,potentially unfair
+3597,potentially unfair
+3598,potentially unfair
+3599,potentially unfair
+3600,potentially unfair
+3601,not potentially unfair
+3602,potentially unfair
+3603,potentially unfair
+3604,potentially unfair
+3605,potentially unfair
+3606,not potentially unfair
+3607,potentially unfair
+3608,potentially unfair
+3609,not potentially unfair
+3610,potentially unfair
+3611,not potentially unfair
+3612,potentially unfair
+3613,potentially unfair
+3614,potentially unfair
+3615,not potentially unfair
+3616,potentially unfair
+3617,potentially unfair
+3618,not potentially unfair
+3619,not potentially unfair
+3620,not potentially unfair
+3621,potentially unfair
+3622,potentially unfair
+3623,not potentially unfair
+3624,not potentially unfair
+3625,potentially unfair
+3626,potentially unfair
+3627,not potentially unfair
+3628,potentially unfair
+3629,potentially unfair
+3630,potentially unfair
+3631,potentially unfair
+3632,not potentially unfair
+3633,potentially unfair
+3634,potentially unfair
+3635,not potentially unfair
+3636,not potentially unfair
+3637,potentially unfair
+3638,not potentially unfair
+3639,not potentially unfair
+3640,not potentially unfair
+3641,not potentially unfair
+3642,potentially unfair
+3643,not potentially unfair
+3644,potentially unfair
+3645,potentially unfair
+3646,not potentially unfair
+3647,potentially unfair
+3648,potentially unfair
+3649,potentially unfair
+3650,not potentially unfair
+3651,not potentially unfair
+3652,not potentially unfair
+3653,not potentially unfair
+3654,not potentially unfair
+3655,potentially unfair
+3656,potentially unfair
+3657,potentially unfair
+3658,potentially unfair
+3659,potentially unfair
+3660,not potentially unfair
+3661,potentially unfair
+3662,potentially unfair
+3663,potentially unfair
+3664,potentially unfair
+3665,potentially unfair
+3666,not potentially unfair
+3667,not potentially unfair
+3668,not potentially unfair
+3669,not potentially unfair
+3670,potentially unfair
+3671,not potentially unfair
+3672,not potentially unfair
+3673,potentially unfair
+3674,not potentially unfair
+3675,not potentially unfair
+3676,not potentially unfair
+3677,not potentially unfair
+3678,potentially unfair
+3679,not potentially unfair
+3680,not potentially unfair
+3681,potentially unfair
+3682,potentially unfair
+3683,potentially unfair
+3684,not potentially unfair
+3685,potentially unfair
+3686,not potentially unfair
+3687,not potentially unfair
+3688,potentially unfair
+3689,potentially unfair
+3690,not potentially unfair
+3691,not potentially unfair
+3692,not potentially unfair
+3693,potentially unfair
+3694,not potentially unfair
+3695,not potentially unfair
+3696,potentially unfair
+3697,potentially unfair
+3698,potentially unfair
+3699,not potentially unfair
+3700,not potentially unfair
+3701,potentially unfair
+3702,not potentially unfair
+3703,potentially unfair
+3704,potentially unfair
+3705,potentially unfair
+3706,not potentially unfair
+3707,not potentially unfair
+3708,potentially unfair
+3709,potentially unfair
+3710,potentially unfair
+3711,potentially unfair
+3712,potentially unfair
+3713,potentially unfair
+3714,potentially unfair
+3715,potentially unfair
+3716,potentially unfair
+3717,potentially unfair
+3718,not potentially unfair
+3719,potentially unfair
+3720,not potentially unfair
+3721,not potentially unfair
+3722,potentially unfair
+3723,potentially unfair
+3724,potentially unfair
+3725,potentially unfair
+3726,not potentially unfair
+3727,potentially unfair
+3728,potentially unfair
+3729,potentially unfair
+3730,potentially unfair
+3731,not potentially unfair
+3732,not potentially unfair
+3733,not potentially unfair
+3734,potentially unfair
+3735,potentially unfair
+3736,potentially unfair
+3737,potentially unfair
+3738,potentially unfair
+3739,not potentially unfair
+3740,potentially unfair
+3741,potentially unfair
+3742,potentially unfair
+3743,potentially unfair
+3744,not potentially unfair
+3745,potentially unfair
+3746,not potentially unfair
+3747,not potentially unfair
+3748,potentially unfair
+3749,potentially unfair
+3750,potentially unfair
+3751,not potentially unfair
+3752,not potentially unfair
+3753,not potentially unfair
+3754,not potentially unfair
+3755,potentially unfair
+3756,potentially unfair
+3757,not potentially unfair
+3758,not potentially unfair
+3759,not potentially unfair
+3760,potentially unfair
+3761,potentially unfair
+3762,potentially unfair
+3763,potentially unfair
+3764,potentially unfair
+3765,not potentially unfair
+3766,not potentially unfair
+3767,potentially unfair
+3768,potentially unfair
+3769,not potentially unfair
+3770,not potentially unfair
+3771,not potentially unfair
+3772,not potentially unfair
+3773,potentially unfair
+3774,not potentially unfair
+3775,potentially unfair
+3776,potentially unfair
+3777,potentially unfair
+3778,potentially unfair
+3779,potentially unfair
+3780,not potentially unfair
+3781,not potentially unfair
+3782,potentially unfair
+3783,potentially unfair
+3784,potentially unfair
+3785,potentially unfair
+3786,potentially unfair
+3787,not potentially unfair
+3788,not potentially unfair
+3789,not potentially unfair
+3790,potentially unfair
+3791,potentially unfair
+3792,not potentially unfair
+3793,potentially unfair
+3794,potentially unfair
+3795,potentially unfair
+3796,not potentially unfair
+3797,not potentially unfair
+3798,potentially unfair
+3799,potentially unfair
+3800,not potentially unfair
+3801,not potentially unfair
+3802,potentially unfair
+3803,potentially unfair
+3804,potentially unfair
+3805,not potentially unfair
+3806,potentially unfair
+3807,potentially unfair
+3808,potentially unfair
+3809,not potentially unfair
+3810,not potentially unfair
+3811,not potentially unfair
+3812,not potentially unfair
+3813,not potentially unfair
+3814,potentially unfair
+3815,potentially unfair
+3816,potentially unfair
+3817,not potentially unfair
+3818,not potentially unfair
+3819,potentially unfair
+3820,potentially unfair
+3821,not potentially unfair
+3822,not potentially unfair
+3823,potentially unfair
+3824,potentially unfair
+3825,not potentially unfair
+3826,potentially unfair
+3827,not potentially unfair
+3828,not potentially unfair
+3829,potentially unfair
+3830,potentially unfair
+3831,not potentially unfair
+3832,not potentially unfair
+3833,potentially unfair
+3834,potentially unfair
+3835,not potentially unfair
+3836,not potentially unfair
+3837,not potentially unfair
+3838,potentially unfair
+3839,not potentially unfair
+3840,not potentially unfair
+3841,not potentially unfair
+3842,not potentially unfair
+3843,potentially unfair
+3844,not potentially unfair
+3845,potentially unfair
+3846,potentially unfair
+3847,potentially unfair
+3848,not potentially unfair
+3849,not potentially unfair
+3850,not potentially unfair
+3851,potentially unfair
+3852,not potentially unfair
+3853,not potentially unfair
+3854,potentially unfair
+3855,not potentially unfair
+3856,not potentially unfair
+3857,potentially unfair
+3858,potentially unfair
+3859,not potentially unfair
+3860,potentially unfair
+3861,not potentially unfair
+3862,potentially unfair
+3863,potentially unfair
+3864,potentially unfair
+3865,potentially unfair
+3866,not potentially unfair
+3867,potentially unfair
+3868,potentially unfair
+3869,potentially unfair
+3870,potentially unfair
+3871,not potentially unfair
+3872,not potentially unfair
+3873,not potentially unfair
+3874,potentially unfair
+3875,not potentially unfair
+3876,not potentially unfair
+3877,not potentially unfair
+3878,potentially unfair
+3879,not potentially unfair
+3880,potentially unfair
+3881,potentially unfair
+3882,potentially unfair
+3883,potentially unfair
+3884,not potentially unfair
+3885,potentially unfair
+3886,potentially unfair
+3887,potentially unfair
+3888,not potentially unfair
+3889,not potentially unfair
+3890,potentially unfair
+3891,not potentially unfair
+3892,potentially unfair
+3893,potentially unfair
+3894,potentially unfair
+3895,not potentially unfair
+3896,potentially unfair
+3897,not potentially unfair
+3898,potentially unfair
+3899,not potentially unfair
+3900,potentially unfair
+3901,potentially unfair
+3902,not potentially unfair
+3903,potentially unfair
+3904,potentially unfair
+3905,potentially unfair
+3906,potentially unfair
+3907,not potentially unfair
+3908,not potentially unfair
+3909,not potentially unfair
+3910,potentially unfair
+3911,potentially unfair
+3912,potentially unfair
+3913,not potentially unfair
+3914,potentially unfair
+3915,potentially unfair
+3916,potentially unfair
+3917,potentially unfair
+3918,not potentially unfair
+3919,potentially unfair
+3920,not potentially unfair
+3921,potentially unfair
+3922,not potentially unfair
+3923,potentially unfair
+3924,not potentially unfair
+3925,potentially unfair
+3926,not potentially unfair
+3927,not potentially unfair
+3928,potentially unfair
+3929,not potentially unfair
+3930,not potentially unfair
+3931,not potentially unfair
+3932,not potentially unfair
+3933,potentially unfair
+3934,potentially unfair
+3935,potentially unfair
+3936,not potentially unfair
+3937,not potentially unfair
+3938,not potentially unfair
+3939,potentially unfair
+3940,potentially unfair
+3941,potentially unfair
+3942,not potentially unfair
+3943,potentially unfair
+3944,potentially unfair
+3945,not potentially unfair
+3946,not potentially unfair
+3947,potentially unfair
+3948,potentially unfair
+3949,potentially unfair
+3950,not potentially unfair
+3951,not potentially unfair
+3952,not potentially unfair
+3953,potentially unfair
+3954,not potentially unfair
+3955,not potentially unfair
+3956,not potentially unfair
+3957,not potentially unfair
+3958,not potentially unfair
+3959,not potentially unfair
+3960,potentially unfair
+3961,not potentially unfair
+3962,not potentially unfair
+3963,potentially unfair
+3964,potentially unfair
+3965,potentially unfair
+3966,potentially unfair
+3967,potentially unfair
+3968,not potentially unfair
+3969,potentially unfair
+3970,not potentially unfair
+3971,potentially unfair
+3972,not potentially unfair
+3973,not potentially unfair
+3974,not potentially unfair
+3975,not potentially unfair
+3976,not potentially unfair
+3977,potentially unfair
+3978,not potentially unfair
+3979,potentially unfair
+3980,potentially unfair
+3981,not potentially unfair
+3982,not potentially unfair
+3983,not potentially unfair
+3984,potentially unfair
+3985,not potentially unfair
+3986,not potentially unfair
+3987,not potentially unfair
+3988,not potentially unfair
+3989,potentially unfair
+3990,potentially unfair
+3991,potentially unfair
+3992,not potentially unfair
+3993,not potentially unfair
+3994,not potentially unfair
+3995,not potentially unfair
+3996,potentially unfair
+3997,potentially unfair
+3998,potentially unfair
+3999,not potentially unfair
+4000,not potentially unfair
+4001,not potentially unfair
+4002,not potentially unfair
+4003,potentially unfair
+4004,not potentially unfair
+4005,potentially unfair
+4006,potentially unfair
+4007,not potentially unfair
+4008,potentially unfair
+4009,potentially unfair
+4010,not potentially unfair
+4011,not potentially unfair
+4012,potentially unfair
+4013,not potentially unfair
+4014,not potentially unfair
+4015,not potentially unfair
+4016,not potentially unfair
+4017,potentially unfair
+4018,not potentially unfair
+4019,potentially unfair
+4020,potentially unfair
+4021,potentially unfair
+4022,potentially unfair
+4023,potentially unfair
+4024,potentially unfair
+4025,not potentially unfair
+4026,not potentially unfair
+4027,not potentially unfair
+4028,not potentially unfair
+4029,potentially unfair
+4030,potentially unfair
+4031,potentially unfair
+4032,not potentially unfair
+4033,not potentially unfair
+4034,potentially unfair
+4035,not potentially unfair
+4036,potentially unfair
+4037,potentially unfair
+4038,not potentially unfair
+4039,not potentially unfair
+4040,not potentially unfair
+4041,potentially unfair
+4042,potentially unfair
+4043,not potentially unfair
+4044,potentially unfair
+4045,not potentially unfair
+4046,potentially unfair
+4047,potentially unfair
+4048,not potentially unfair
+4049,not potentially unfair
+4050,not potentially unfair
+4051,not potentially unfair
+4052,potentially unfair
+4053,potentially unfair
+4054,potentially unfair
+4055,potentially unfair
+4056,not potentially unfair
+4057,not potentially unfair
+4058,not potentially unfair
+4059,not potentially unfair
+4060,not potentially unfair
+4061,potentially unfair
+4062,not potentially unfair
+4063,not potentially unfair
+4064,not potentially unfair
+4065,potentially unfair
+4066,potentially unfair
+4067,potentially unfair
+4068,not potentially unfair
+4069,potentially unfair
+4070,potentially unfair
+4071,potentially unfair
+4072,potentially unfair
+4073,potentially unfair
+4074,potentially unfair
+4075,not potentially unfair
+4076,potentially unfair
+4077,potentially unfair
+4078,not potentially unfair
+4079,not potentially unfair
+4080,potentially unfair
+4081,potentially unfair
+4082,potentially unfair
+4083,not potentially unfair
+4084,potentially unfair
+4085,potentially unfair
+4086,not potentially unfair
+4087,potentially unfair
+4088,potentially unfair
+4089,not potentially unfair
+4090,not potentially unfair
+4091,not potentially unfair
+4092,not potentially unfair
+4093,potentially unfair
+4094,not potentially unfair
+4095,not potentially unfair
+4096,potentially unfair
+4097,not potentially unfair
+4098,not potentially unfair
+4099,potentially unfair
+4100,potentially unfair
+4101,not potentially unfair
+4102,potentially unfair
+4103,potentially unfair
+4104,potentially unfair
+4105,potentially unfair
+4106,not potentially unfair
+4107,potentially unfair
+4108,potentially unfair
+4109,potentially unfair
+4110,potentially unfair
+4111,not potentially unfair
+4112,not potentially unfair
+4113,potentially unfair
+4114,potentially unfair
+4115,not potentially unfair
+4116,potentially unfair
+4117,potentially unfair
+4118,not potentially unfair
+4119,not potentially unfair
+4120,potentially unfair
+4121,not potentially unfair
+4122,potentially unfair
+4123,potentially unfair
+4124,not potentially unfair
+4125,potentially unfair
+4126,potentially unfair
+4127,not potentially unfair
+4128,potentially unfair
+4129,not potentially unfair
+4130,potentially unfair
+4131,not potentially unfair
+4132,not potentially unfair
+4133,potentially unfair
+4134,not potentially unfair
+4135,potentially unfair
+4136,not potentially unfair
+4137,potentially unfair
+4138,potentially unfair
+4139,not potentially unfair
+4140,potentially unfair
+4141,not potentially unfair
+4142,potentially unfair
+4143,not potentially unfair
+4144,not potentially unfair
+4145,not potentially unfair
+4146,not potentially unfair
+4147,potentially unfair
+4148,not potentially unfair
+4149,not potentially unfair
+4150,not potentially unfair
+4151,not potentially unfair
+4152,potentially unfair
+4153,potentially unfair
+4154,potentially unfair
+4155,potentially unfair
+4156,not potentially unfair
+4157,not potentially unfair
+4158,not potentially unfair
+4159,not potentially unfair
+4160,potentially unfair
+4161,not potentially unfair
+4162,not potentially unfair
+4163,not potentially unfair
+4164,potentially unfair
+4165,not potentially unfair
+4166,not potentially unfair
+4167,not potentially unfair
+4168,not potentially unfair
+4169,potentially unfair
+4170,potentially unfair
+4171,not potentially unfair
+4172,not potentially unfair
+4173,not potentially unfair
+4174,potentially unfair
+4175,potentially unfair
+4176,potentially unfair
+4177,potentially unfair
+4178,not potentially unfair
+4179,not potentially unfair
+4180,not potentially unfair
+4181,not potentially unfair
+4182,not potentially unfair
+4183,not potentially unfair
+4184,not potentially unfair
+4185,not potentially unfair
+4186,potentially unfair
+4187,potentially unfair
+4188,potentially unfair
+4189,not potentially unfair
+4190,not potentially unfair
+4191,not potentially unfair
+4192,potentially unfair
+4193,not potentially unfair
+4194,potentially unfair
+4195,potentially unfair
+4196,potentially unfair
+4197,potentially unfair
+4198,potentially unfair
+4199,not potentially unfair
+4200,potentially unfair
+4201,not potentially unfair
+4202,potentially unfair
+4203,potentially unfair
+4204,not potentially unfair
+4205,not potentially unfair
+4206,not potentially unfair
+4207,potentially unfair
+4208,potentially unfair
+4209,potentially unfair
+4210,potentially unfair
+4211,potentially unfair
+4212,not potentially unfair
+4213,not potentially unfair
+4214,not potentially unfair
+4215,not potentially unfair
+4216,potentially unfair
+4217,not potentially unfair
+4218,not potentially unfair
+4219,potentially unfair
+4220,potentially unfair
+4221,potentially unfair
+4222,not potentially unfair
+4223,not potentially unfair
+4224,potentially unfair
+4225,not potentially unfair
+4226,potentially unfair
+4227,potentially unfair
+4228,potentially unfair
+4229,potentially unfair
+4230,potentially unfair
+4231,not potentially unfair
+4232,potentially unfair
+4233,not potentially unfair
+4234,potentially unfair
+4235,not potentially unfair
+4236,not potentially unfair
+4237,potentially unfair
+4238,not potentially unfair
+4239,potentially unfair
+4240,potentially unfair
+4241,potentially unfair
+4242,not potentially unfair
+4243,potentially unfair
+4244,not potentially unfair
+4245,not potentially unfair
+4246,potentially unfair
+4247,not potentially unfair
+4248,not potentially unfair
+4249,potentially unfair
+4250,not potentially unfair
+4251,potentially unfair
+4252,not potentially unfair
+4253,not potentially unfair
+4254,potentially unfair
+4255,potentially unfair
+4256,potentially unfair
+4257,not potentially unfair
+4258,not potentially unfair
+4259,not potentially unfair
+4260,potentially unfair
+4261,potentially unfair
+4262,potentially unfair
+4263,not potentially unfair
+4264,not potentially unfair
+4265,not potentially unfair
+4266,not potentially unfair
+4267,potentially unfair
+4268,not potentially unfair
+4269,potentially unfair
+4270,not potentially unfair
+4271,not potentially unfair
+4272,not potentially unfair
+4273,potentially unfair
+4274,not potentially unfair
+4275,not potentially unfair
+4276,potentially unfair
+4277,potentially unfair
+4278,potentially unfair
+4279,not potentially unfair
+4280,not potentially unfair
+4281,potentially unfair
+4282,not potentially unfair
+4283,not potentially unfair
+4284,potentially unfair
+4285,not potentially unfair
+4286,not potentially unfair
+4287,not potentially unfair
+4288,potentially unfair
+4289,not potentially unfair
+4290,potentially unfair
+4291,potentially unfair
+4292,not potentially unfair
+4293,potentially unfair
+4294,not potentially unfair
+4295,potentially unfair
+4296,potentially unfair
+4297,not potentially unfair
+4298,potentially unfair
+4299,potentially unfair
+4300,not potentially unfair
+4301,potentially unfair
+4302,not potentially unfair
+4303,not potentially unfair
+4304,potentially unfair
+4305,not potentially unfair
+4306,not potentially unfair
+4307,potentially unfair
+4308,not potentially unfair
+4309,potentially unfair
+4310,potentially unfair
+4311,potentially unfair
+4312,potentially unfair
+4313,not potentially unfair
+4314,potentially unfair
+4315,potentially unfair
+4316,not potentially unfair
+4317,potentially unfair
+4318,potentially unfair
+4319,not potentially unfair
+4320,potentially unfair
+4321,not potentially unfair
+4322,not potentially unfair
+4323,potentially unfair
+4324,potentially unfair
+4325,potentially unfair
+4326,not potentially unfair
+4327,potentially unfair
+4328,potentially unfair
+4329,potentially unfair
+4330,not potentially unfair
+4331,potentially unfair
+4332,potentially unfair
+4333,not potentially unfair
+4334,potentially unfair
+4335,not potentially unfair
+4336,potentially unfair
+4337,not potentially unfair
+4338,not potentially unfair
+4339,not potentially unfair
+4340,potentially unfair
+4341,not potentially unfair
+4342,potentially unfair
+4343,not potentially unfair
+4344,potentially unfair
+4345,not potentially unfair
+4346,potentially unfair
+4347,potentially unfair
+4348,not potentially unfair
+4349,not potentially unfair
+4350,not potentially unfair
+4351,not potentially unfair
+4352,potentially unfair
+4353,not potentially unfair
+4354,potentially unfair
+4355,potentially unfair
+4356,not potentially unfair
+4357,potentially unfair
+4358,potentially unfair
+4359,potentially unfair
+4360,not potentially unfair
+4361,not potentially unfair
+4362,potentially unfair
+4363,potentially unfair
+4364,not potentially unfair
+4365,potentially unfair
+4366,potentially unfair
+4367,not potentially unfair
+4368,potentially unfair
+4369,potentially unfair
+4370,not potentially unfair
+4371,not potentially unfair
+4372,not potentially unfair
+4373,not potentially unfair
+4374,not potentially unfair
+4375,potentially unfair
+4376,potentially unfair
+4377,not potentially unfair
+4378,not potentially unfair
+4379,not potentially unfair
+4380,not potentially unfair
+4381,not potentially unfair
+4382,not potentially unfair
+4383,potentially unfair
+4384,potentially unfair
+4385,potentially unfair
+4386,not potentially unfair
+4387,not potentially unfair
+4388,not potentially unfair
+4389,potentially unfair
+4390,potentially unfair
+4391,potentially unfair
+4392,not potentially unfair
+4393,not potentially unfair
+4394,not potentially unfair
+4395,potentially unfair
+4396,potentially unfair
+4397,potentially unfair
+4398,potentially unfair
+4399,not potentially unfair
+4400,not potentially unfair
+4401,potentially unfair
+4402,potentially unfair
+4403,not potentially unfair
+4404,potentially unfair
+4405,potentially unfair
+4406,not potentially unfair
+4407,potentially unfair
+4408,not potentially unfair
+4409,potentially unfair
+4410,not potentially unfair
+4411,potentially unfair
+4412,not potentially unfair
+4413,not potentially unfair
+4414,potentially unfair
+4415,potentially unfair
+4416,potentially unfair
+4417,not potentially unfair
+4418,not potentially unfair
+4419,potentially unfair
+4420,not potentially unfair
+4421,potentially unfair
+4422,potentially unfair
+4423,not potentially unfair
+4424,not potentially unfair
+4425,potentially unfair
+4426,not potentially unfair
+4427,potentially unfair
+4428,potentially unfair
+4429,not potentially unfair
+4430,potentially unfair
+4431,not potentially unfair
+4432,not potentially unfair
+4433,potentially unfair
+4434,not potentially unfair
+4435,potentially unfair
+4436,not potentially unfair
+4437,not potentially unfair
+4438,potentially unfair
+4439,not potentially unfair
+4440,not potentially unfair
+4441,not potentially unfair
+4442,not potentially unfair
+4443,not potentially unfair
+4444,not potentially unfair
+4445,potentially unfair
+4446,potentially unfair
+4447,potentially unfair
+4448,not potentially unfair
+4449,not potentially unfair
+4450,potentially unfair
+4451,potentially unfair
+4452,not potentially unfair
+4453,not potentially unfair
+4454,not potentially unfair
+4455,potentially unfair
+4456,not potentially unfair
+4457,potentially unfair
+4458,not potentially unfair
+4459,potentially unfair
+4460,potentially unfair
+4461,potentially unfair
+4462,potentially unfair
+4463,not potentially unfair
+4464,not potentially unfair
+4465,potentially unfair
+4466,potentially unfair
+4467,not potentially unfair
+4468,not potentially unfair
+4469,not potentially unfair
+4470,not potentially unfair
+4471,potentially unfair
+4472,not potentially unfair
+4473,potentially unfair
+4474,not potentially unfair
+4475,potentially unfair
+4476,potentially unfair
+4477,potentially unfair
+4478,not potentially unfair
+4479,not potentially unfair
+4480,not potentially unfair
+4481,not potentially unfair
+4482,potentially unfair
+4483,potentially unfair
+4484,potentially unfair
+4485,potentially unfair
+4486,not potentially unfair
+4487,not potentially unfair
+4488,potentially unfair
+4489,not potentially unfair
+4490,not potentially unfair
+4491,potentially unfair
+4492,potentially unfair
+4493,potentially unfair
+4494,not potentially unfair
+4495,potentially unfair
+4496,not potentially unfair
+4497,potentially unfair
+4498,not potentially unfair
+4499,potentially unfair
+4500,not potentially unfair
+4501,not potentially unfair
+4502,not potentially unfair
+4503,not potentially unfair
+4504,potentially unfair
+4505,potentially unfair
+4506,potentially unfair
+4507,potentially unfair
+4508,not potentially unfair
+4509,potentially unfair
+4510,potentially unfair
+4511,potentially unfair
+4512,not potentially unfair
+4513,not potentially unfair
+4514,not potentially unfair
+4515,potentially unfair
+4516,potentially unfair
+4517,potentially unfair
+4518,not potentially unfair
+4519,potentially unfair
+4520,potentially unfair
+4521,not potentially unfair
+4522,potentially unfair
+4523,not potentially unfair
+4524,potentially unfair
+4525,not potentially unfair
+4526,not potentially unfair
+4527,not potentially unfair
+4528,potentially unfair
+4529,not potentially unfair
+4530,potentially unfair
+4531,not potentially unfair
+4532,potentially unfair
+4533,not potentially unfair
+4534,potentially unfair
+4535,potentially unfair
+4536,potentially unfair
+4537,potentially unfair
+4538,potentially unfair
+4539,potentially unfair
+4540,not potentially unfair
+4541,potentially unfair
+4542,potentially unfair
+4543,potentially unfair
+4544,potentially unfair
+4545,not potentially unfair
+4546,potentially unfair
+4547,not potentially unfair
+4548,not potentially unfair
+4549,potentially unfair
+4550,potentially unfair
+4551,not potentially unfair
+4552,not potentially unfair
+4553,potentially unfair
+4554,potentially unfair
+4555,potentially unfair
+4556,potentially unfair
+4557,not potentially unfair
+4558,not potentially unfair
+4559,not potentially unfair
+4560,potentially unfair
+4561,potentially unfair
+4562,not potentially unfair
+4563,potentially unfair
+4564,potentially unfair
+4565,potentially unfair
+4566,potentially unfair
+4567,not potentially unfair
+4568,not potentially unfair
+4569,potentially unfair
+4570,not potentially unfair
+4571,potentially unfair
+4572,potentially unfair
+4573,not potentially unfair
+4574,not potentially unfair
+4575,potentially unfair
+4576,potentially unfair
+4577,potentially unfair
+4578,potentially unfair
+4579,not potentially unfair
+4580,potentially unfair
+4581,not potentially unfair
+4582,not potentially unfair
+4583,potentially unfair
+4584,potentially unfair
+4585,potentially unfair
+4586,potentially unfair
+4587,potentially unfair
+4588,not potentially unfair
+4589,not potentially unfair
+4590,potentially unfair
+4591,potentially unfair
+4592,potentially unfair
+4593,not potentially unfair
+4594,not potentially unfair
+4595,potentially unfair
+4596,potentially unfair
+4597,potentially unfair
+4598,potentially unfair
+4599,not potentially unfair
+4600,not potentially unfair
+4601,not potentially unfair
+4602,not potentially unfair
+4603,not potentially unfair
+4604,potentially unfair
+4605,potentially unfair
+4606,not potentially unfair
+4607,potentially unfair
+4608,not potentially unfair
+4609,potentially unfair
+4610,not potentially unfair
+4611,potentially unfair
+4612,potentially unfair
+4613,not potentially unfair
+4614,not potentially unfair
+4615,not potentially unfair
+4616,not potentially unfair
+4617,not potentially unfair
+4618,not potentially unfair
+4619,not potentially unfair
+4620,potentially unfair
+4621,potentially unfair
+4622,not potentially unfair
+4623,potentially unfair
+4624,potentially unfair
+4625,not potentially unfair
+4626,potentially unfair
+4627,potentially unfair
+4628,not potentially unfair
+4629,potentially unfair
+4630,potentially unfair
+4631,not potentially unfair
+4632,potentially unfair
+4633,potentially unfair
+4634,potentially unfair
+4635,potentially unfair
+4636,potentially unfair
+4637,potentially unfair
+4638,not potentially unfair
+4639,potentially unfair
+4640,not potentially unfair
+4641,not potentially unfair
+4642,not potentially unfair
+4643,not potentially unfair
+4644,not potentially unfair
+4645,not potentially unfair
+4646,potentially unfair
+4647,not potentially unfair
+4648,not potentially unfair
+4649,not potentially unfair
+4650,not potentially unfair
+4651,potentially unfair
+4652,potentially unfair
+4653,potentially unfair
+4654,potentially unfair
+4655,not potentially unfair
+4656,not potentially unfair
+4657,not potentially unfair
+4658,not potentially unfair
+4659,potentially unfair
+4660,potentially unfair
+4661,potentially unfair
+4662,potentially unfair
+4663,not potentially unfair
+4664,not potentially unfair
+4665,potentially unfair
+4666,not potentially unfair
+4667,not potentially unfair
+4668,potentially unfair
+4669,not potentially unfair
+4670,potentially unfair
+4671,not potentially unfair
+4672,not potentially unfair
+4673,potentially unfair
+4674,not potentially unfair
+4675,potentially unfair
+4676,potentially unfair
+4677,not potentially unfair
+4678,potentially unfair
+4679,not potentially unfair
+4680,potentially unfair
+4681,potentially unfair
+4682,potentially unfair
+4683,potentially unfair
+4684,not potentially unfair
+4685,potentially unfair
+4686,potentially unfair
+4687,potentially unfair
+4688,not potentially unfair
+4689,not potentially unfair
+4690,not potentially unfair
+4691,not potentially unfair
+4692,potentially unfair
+4693,not potentially unfair
+4694,potentially unfair
+4695,not potentially unfair
+4696,potentially unfair
+4697,potentially unfair
+4698,not potentially unfair
+4699,not potentially unfair
+4700,not potentially unfair
+4701,not potentially unfair
+4702,potentially unfair
+4703,potentially unfair
+4704,potentially unfair
+4705,potentially unfair
+4706,not potentially unfair
+4707,potentially unfair
+4708,potentially unfair
+4709,not potentially unfair
+4710,not potentially unfair
+4711,potentially unfair
+4712,potentially unfair
+4713,potentially unfair
+4714,not potentially unfair
+4715,potentially unfair
+4716,not potentially unfair
+4717,potentially unfair
+4718,potentially unfair
+4719,not potentially unfair
+4720,potentially unfair
+4721,not potentially unfair
+4722,potentially unfair
+4723,potentially unfair
+4724,potentially unfair
+4725,not potentially unfair
+4726,not potentially unfair
+4727,potentially unfair
+4728,potentially unfair
+4729,not potentially unfair
+4730,potentially unfair
+4731,not potentially unfair
+4732,potentially unfair
+4733,not potentially unfair
+4734,not potentially unfair
+4735,potentially unfair
+4736,potentially unfair
+4737,potentially unfair
+4738,potentially unfair
+4739,not potentially unfair
+4740,potentially unfair
+4741,potentially unfair
+4742,not potentially unfair
+4743,potentially unfair
+4744,potentially unfair
+4745,not potentially unfair
+4746,potentially unfair
+4747,potentially unfair
+4748,potentially unfair
+4749,not potentially unfair
+4750,potentially unfair
+4751,not potentially unfair
+4752,not potentially unfair
+4753,potentially unfair
+4754,potentially unfair
+4755,potentially unfair
+4756,potentially unfair
+4757,potentially unfair
+4758,not potentially unfair
+4759,not potentially unfair
+4760,potentially unfair
+4761,not potentially unfair
+4762,potentially unfair
+4763,not potentially unfair
+4764,not potentially unfair
+4765,not potentially unfair
+4766,not potentially unfair
+4767,potentially unfair
+4768,not potentially unfair
+4769,potentially unfair
+4770,potentially unfair
+4771,potentially unfair
+4772,not potentially unfair
+4773,potentially unfair
+4774,potentially unfair
+4775,potentially unfair
+4776,potentially unfair
+4777,not potentially unfair
+4778,not potentially unfair
+4779,not potentially unfair
+4780,not potentially unfair
+4781,not potentially unfair
+4782,not potentially unfair
+4783,potentially unfair
+4784,potentially unfair
+4785,potentially unfair
+4786,not potentially unfair
+4787,not potentially unfair
+4788,not potentially unfair
+4789,not potentially unfair
+4790,potentially unfair
+4791,not potentially unfair
+4792,not potentially unfair
+4793,not potentially unfair
+4794,potentially unfair
+4795,potentially unfair
+4796,not potentially unfair
+4797,not potentially unfair
+4798,potentially unfair
+4799,not potentially unfair
+4800,not potentially unfair
+4801,potentially unfair
+4802,not potentially unfair
+4803,potentially unfair
+4804,potentially unfair
+4805,potentially unfair
+4806,potentially unfair
+4807,potentially unfair
+4808,not potentially unfair
+4809,potentially unfair
+4810,potentially unfair
+4811,not potentially unfair
+4812,not potentially unfair
+4813,potentially unfair
+4814,potentially unfair
+4815,potentially unfair
+4816,not potentially unfair
+4817,not potentially unfair
+4818,not potentially unfair
+4819,potentially unfair
+4820,not potentially unfair
+4821,not potentially unfair
+4822,potentially unfair
+4823,potentially unfair
+4824,potentially unfair
+4825,potentially unfair
+4826,potentially unfair
+4827,potentially unfair
+4828,not potentially unfair
+4829,potentially unfair
+4830,potentially unfair
+4831,not potentially unfair
+4832,potentially unfair
+4833,not potentially unfair
+4834,not potentially unfair
+4835,potentially unfair
+4836,not potentially unfair
+4837,potentially unfair
+4838,potentially unfair
+4839,not potentially unfair
+4840,not potentially unfair
+4841,potentially unfair
+4842,not potentially unfair
+4843,not potentially unfair
+4844,not potentially unfair
+4845,not potentially unfair
+4846,not potentially unfair
+4847,potentially unfair
+4848,potentially unfair
+4849,potentially unfair
+4850,potentially unfair
+4851,not potentially unfair
+4852,potentially unfair
+4853,not potentially unfair
+4854,potentially unfair
+4855,potentially unfair
+4856,not potentially unfair
+4857,not potentially unfair
+4858,potentially unfair
+4859,potentially unfair
+4860,potentially unfair
+4861,potentially unfair
+4862,potentially unfair
+4863,not potentially unfair
+4864,not potentially unfair
+4865,not potentially unfair
+4866,not potentially unfair
+4867,potentially unfair
+4868,not potentially unfair
+4869,potentially unfair
+4870,potentially unfair
+4871,not potentially unfair
+4872,not potentially unfair
+4873,not potentially unfair
+4874,not potentially unfair
+4875,not potentially unfair
+4876,potentially unfair
+4877,not potentially unfair
+4878,potentially unfair
+4879,not potentially unfair
+4880,potentially unfair
+4881,not potentially unfair
+4882,not potentially unfair
+4883,potentially unfair
+4884,not potentially unfair
+4885,potentially unfair
+4886,not potentially unfair
+4887,potentially unfair
+4888,potentially unfair
+4889,potentially unfair
+4890,potentially unfair
+4891,not potentially unfair
+4892,potentially unfair
+4893,potentially unfair
+4894,potentially unfair
+4895,not potentially unfair
+4896,potentially unfair
+4897,not potentially unfair
+4898,not potentially unfair
+4899,potentially unfair
+4900,potentially unfair
+4901,not potentially unfair
+4902,not potentially unfair
+4903,not potentially unfair
+4904,not potentially unfair
+4905,potentially unfair
+4906,potentially unfair
+4907,potentially unfair
+4908,not potentially unfair
+4909,not potentially unfair
+4910,potentially unfair
+4911,potentially unfair
+4912,potentially unfair
+4913,not potentially unfair
+4914,potentially unfair
+4915,potentially unfair
+4916,potentially unfair
+4917,potentially unfair
+4918,potentially unfair
+4919,not potentially unfair
+4920,not potentially unfair
+4921,not potentially unfair
+4922,not potentially unfair
+4923,potentially unfair
+4924,not potentially unfair
+4925,not potentially unfair
+4926,potentially unfair
+4927,potentially unfair
+4928,potentially unfair
+4929,potentially unfair
+4930,potentially unfair
+4931,not potentially unfair
+4932,potentially unfair
+4933,potentially unfair
+4934,potentially unfair
+4935,not potentially unfair
+4936,potentially unfair
+4937,potentially unfair
+4938,potentially unfair
+4939,potentially unfair
+4940,not potentially unfair
+4941,potentially unfair
+4942,potentially unfair
+4943,potentially unfair
+4944,potentially unfair
+4945,potentially unfair
+4946,potentially unfair
+4947,not potentially unfair
+4948,not potentially unfair
+4949,potentially unfair
+4950,potentially unfair
+4951,not potentially unfair
+4952,potentially unfair
+4953,potentially unfair
+4954,not potentially unfair
+4955,not potentially unfair
+4956,not potentially unfair
+4957,potentially unfair
+4958,not potentially unfair
+4959,potentially unfair
+4960,potentially unfair
+4961,not potentially unfair
+4962,potentially unfair
+4963,potentially unfair
+4964,potentially unfair
+4965,not potentially unfair
+4966,potentially unfair
+4967,potentially unfair
+4968,not potentially unfair
+4969,not potentially unfair
+4970,potentially unfair
+4971,not potentially unfair
+4972,potentially unfair
+4973,not potentially unfair
+4974,not potentially unfair
+4975,not potentially unfair
+4976,not potentially unfair
+4977,not potentially unfair
+4978,not potentially unfair
+4979,potentially unfair
+4980,potentially unfair
+4981,not potentially unfair
+4982,potentially unfair
+4983,potentially unfair
+4984,not potentially unfair
+4985,not potentially unfair
+4986,potentially unfair
+4987,potentially unfair
+4988,potentially unfair
+4989,not potentially unfair
+4990,not potentially unfair
+4991,not potentially unfair
+4992,potentially unfair
+4993,potentially unfair
+4994,not potentially unfair
+4995,potentially unfair
+4996,potentially unfair
+4997,potentially unfair
+4998,not potentially unfair
+4999,not potentially unfair
+5000,potentially unfair
+5001,potentially unfair
+5002,not potentially unfair
+5003,not potentially unfair
+5004,not potentially unfair
+5005,potentially unfair
+5006,potentially unfair
+5007,not potentially unfair
+5008,not potentially unfair
+5009,not potentially unfair
+5010,not potentially unfair
+5011,potentially unfair
+5012,potentially unfair
+5013,not potentially unfair
+5014,not potentially unfair
+5015,potentially unfair
+5016,potentially unfair
+5017,potentially unfair
+5018,potentially unfair
+5019,potentially unfair
+5020,not potentially unfair
+5021,not potentially unfair
+5022,potentially unfair
+5023,potentially unfair
+5024,not potentially unfair
+5025,not potentially unfair
+5026,potentially unfair
+5027,potentially unfair
+5028,not potentially unfair
+5029,not potentially unfair
+5030,not potentially unfair
+5031,potentially unfair
+5032,potentially unfair
+5033,potentially unfair
+5034,not potentially unfair
+5035,not potentially unfair
+5036,not potentially unfair
+5037,not potentially unfair
+5038,not potentially unfair
+5039,not potentially unfair
+5040,not potentially unfair
+5041,not potentially unfair
+5042,potentially unfair
+5043,potentially unfair
+5044,potentially unfair
+5045,not potentially unfair
+5046,not potentially unfair
+5047,potentially unfair
+5048,not potentially unfair
+5049,not potentially unfair

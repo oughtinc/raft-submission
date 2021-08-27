@@ -1,0 +1,450 @@
+ID,Label
+50,company
+51,research institute
+52,company
+53,university
+54,research institute
+55,research institute
+56,company
+57,company
+58,company
+59,company
+60,research institute
+61,university
+62,research institute
+63,company
+64,company
+65,university
+66,university
+67,research institute
+68,research institute
+69,company
+70,company
+71,research institute
+72,company
+73,company
+74,university
+75,research institute
+76,research institute
+77,company
+78,company
+79,research institute
+80,research institute
+81,university
+82,university
+83,research institute
+84,company
+85,university
+86,research institute
+87,university
+88,research institute
+89,university
+90,company
+91,company
+92,company
+93,research institute
+94,research institute
+95,company
+96,university
+97,research institute
+98,company
+99,research institute
+100,university
+101,university
+102,research institute
+103,university
+104,company
+105,research institute
+106,research institute
+107,university
+108,research institute
+109,research institute
+110,research institute
+111,company
+112,company
+113,research institute
+114,research institute
+115,company
+116,company
+117,company
+118,research institute
+119,university
+120,research institute
+121,university
+122,university
+123,university
+124,research institute
+125,university
+126,research institute
+127,company
+128,university
+129,company
+130,company
+131,research institute
+132,company
+133,university
+134,university
+135,research institute
+136,research institute
+137,company
+138,research institute
+139,research institute
+140,university
+141,university
+142,research institute
+143,university
+144,university
+145,company
+146,research institute
+147,company
+148,company
+149,university
+150,company
+151,research institute
+152,university
+153,university
+154,company
+155,company
+156,research institute
+157,company
+158,research institute
+159,research institute
+160,company
+161,company
+162,research institute
+163,university
+164,company
+165,research institute
+166,university
+167,university
+168,research institute
+169,company
+170,research institute
+171,research institute
+172,research institute
+173,company
+174,university
+175,research institute
+176,university
+177,university
+178,company
+179,research institute
+180,university
+181,company
+182,research institute
+183,research institute
+184,company
+185,research institute
+186,research institute
+187,university
+188,company
+189,research institute
+190,university
+191,company
+192,research institute
+193,company
+194,research institute
+195,company
+196,research institute
+197,research institute
+198,research institute
+199,university
+200,company
+201,research institute
+202,company
+203,research institute
+204,company
+205,company
+206,company
+207,company
+208,company
+209,university
+210,company
+211,university
+212,university
+213,company
+214,university
+215,company
+216,university
+217,research institute
+218,university
+219,company
+220,research institute
+221,company
+222,company
+223,university
+224,research institute
+225,research institute
+226,university
+227,company
+228,research institute
+229,company
+230,company
+231,research institute
+232,research institute
+233,research institute
+234,company
+235,company
+236,research institute
+237,research institute
+238,company
+239,university
+240,research institute
+241,company
+242,research institute
+243,company
+244,company
+245,company
+246,research institute
+247,research institute
+248,company
+249,university
+250,company
+251,company
+252,research institute
+253,research institute
+254,company
+255,research institute
+256,company
+257,research institute
+258,university
+259,company
+260,university
+261,research institute
+262,university
+263,university
+264,university
+265,university
+266,company
+267,research institute
+268,research institute
+269,company
+270,research institute
+271,company
+272,university
+273,company
+274,research institute
+275,research institute
+276,university
+277,research institute
+278,university
+279,research institute
+280,research institute
+281,university
+282,company
+283,university
+284,university
+285,research institute
+286,research institute
+287,research institute
+288,research institute
+289,company
+290,research institute
+291,university
+292,university
+293,company
+294,company
+295,research institute
+296,university
+297,company
+298,research institute
+299,university
+300,company
+301,company
+302,university
+303,university
+304,research institute
+305,university
+306,research institute
+307,university
+308,research institute
+309,research institute
+310,company
+311,company
+312,company
+313,company
+314,company
+315,university
+316,research institute
+317,company
+318,research institute
+319,research institute
+320,company
+321,university
+322,company
+323,company
+324,company
+325,university
+326,university
+327,research institute
+328,university
+329,research institute
+330,university
+331,research institute
+332,company
+333,company
+334,company
+335,university
+336,university
+337,company
+338,research institute
+339,university
+340,research institute
+341,university
+342,company
+343,company
+344,research institute
+345,company
+346,university
+347,company
+348,research institute
+349,research institute
+350,company
+351,company
+352,university
+353,research institute
+354,research institute
+355,company
+356,research institute
+357,research institute
+358,company
+359,research institute
+360,research institute
+361,company
+362,company
+363,company
+364,university
+365,research institute
+366,university
+367,research institute
+368,research institute
+369,university
+370,research institute
+371,company
+372,university
+373,company
+374,university
+375,research institute
+376,research institute
+377,research institute
+378,company
+379,university
+380,company
+381,research institute
+382,company
+383,company
+384,university
+385,company
+386,research institute
+387,research institute
+388,research institute
+389,research institute
+390,university
+391,company
+392,university
+393,company
+394,company
+395,university
+396,research institute
+397,company
+398,university
+399,company
+400,research institute
+401,university
+402,university
+403,research institute
+404,university
+405,company
+406,university
+407,company
+408,research institute
+409,research institute
+410,research institute
+411,company
+412,company
+413,university
+414,company
+415,university
+416,company
+417,university
+418,research institute
+419,university
+420,research institute
+421,university
+422,research institute
+423,university
+424,research institute
+425,university
+426,university
+427,research institute
+428,research institute
+429,company
+430,research institute
+431,university
+432,research institute
+433,university
+434,research institute
+435,company
+436,research institute
+437,company
+438,university
+439,company
+440,university
+441,university
+442,company
+443,research institute
+444,research institute
+445,company
+446,university
+447,research institute
+448,university
+449,university
+450,company
+451,company
+452,research institute
+453,university
+454,company
+455,research institute
+456,university
+457,research institute
+458,research institute
+459,company
+460,research institute
+461,company
+462,university
+463,company
+464,university
+465,company
+466,research institute
+467,company
+468,company
+469,company
+470,university
+471,research institute
+472,university
+473,university
+474,company
+475,company
+476,company
+477,university
+478,research institute
+479,university
+480,university
+481,company
+482,university
+483,university
+484,research institute
+485,university
+486,research institute
+487,university
+488,company
+489,research institute
+490,university
+491,company
+492,research institute
+493,research institute
+494,company
+495,university
+496,research institute
+497,university
+498,university
