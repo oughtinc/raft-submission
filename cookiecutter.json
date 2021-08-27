@@ -1,4 +1,5 @@
 {
+    "hf_hub_username": "huggingface",
     "repo_name": "my-raft-submission",
     "camelcase_repo_name": "MyRaftSubmission"
 }
