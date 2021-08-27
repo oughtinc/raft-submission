@@ -1,6 +1,12 @@
 # RAFT Submission Template
 
-Welcome to the RAFT benchmark! This repository can be used to generate a template so you can submit your predictions for evaluation on [the leaderboard](https://huggingface.co/spaces/ought/raft-leaderboard).
+Welcome to the RAFT benchmark! RAFT is a few-shot classification benchmark that tests language models:
+
+- across multiple domains (lit review, tweets, customer interaction, etc.)
+- on economically valuable classification tasks (someone inherently cares about the task)
+- in a setting that mirrors deployment (50 examples per task, info retrieval allowed, hidden test set)
+
+This repository can be used to generate a template so you can submit your predictions for evaluation on [the leaderboard](https://huggingface.co/spaces/ought/raft-leaderboard).
 
 ## Quickstart
 
