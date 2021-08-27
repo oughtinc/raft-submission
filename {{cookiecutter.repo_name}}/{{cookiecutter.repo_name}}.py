@@ -199,24 +199,6 @@ TASKS = {
             ]
         }
     },
-    "medical_subdomain_of_clinical_notes": {
-        "name": "medical_subdomain_of_clinical_notes",
-        "description": "",
-        "data_columns": [
-            "Note",
-            "ID"
-        ],
-        "label_columns": {
-            "Label": [
-                "cardiology",
-                "gastroenterology",
-                "nephrology",
-                "neurology",
-                "psychiatry",
-                "pulmonary disease"
-            ]
-        }
-    },
     "overruling": {
         "name": "overruling",
         "description": "",

@@ -8,7 +8,6 @@ from datasets import get_dataset_config_names, load_dataset
 
 CSV_SCHEMA = {
     "banking_77": (5000, 2),
-    "medical_subdomain_of_clinical_notes": (380, 2),
     "overruling": (2350, 2),
     "semiconductor_org_types": (449, 2),
     "ade_corpus_v2": (5000, 2),

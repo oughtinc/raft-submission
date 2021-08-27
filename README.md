@@ -87,9 +87,6 @@ data
 ├── banking_77
 │   ├── predictions.csv
 │   └── task.json
-├── medical_subdomain_of_clinical_notes
-│   ├── predictions.csv
-│   └── task.json
 ├── neurips_impact_statement_risks
 │   ├── predictions.csv
 │   └── task.json
