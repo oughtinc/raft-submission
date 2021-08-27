@@ -16,7 +16,8 @@ def install():
             stderr=subprocess.PIPE,
             stdout=subprocess.PIPE,
             check=True,
-            encoding="utf-8")
+            encoding="utf-8",
+        )
     except subprocess.CalledProcessError as exc:
         raise EnvironmentError(exc.stderr)
 
@@ -26,7 +27,7 @@ def install():
             stderr=subprocess.PIPE,
             stdout=subprocess.PIPE,
             check=True,
-            encoding="utf-8"
+            encoding="utf-8",
         )
     except subprocess.CalledProcessError as exc:
         raise EnvironmentError(exc.stderr)
