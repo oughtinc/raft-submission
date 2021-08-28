@@ -1,6 +1,6 @@
 # RAFT Submission Template
 
-Welcome to the RAFT benchmark! RAFT is a few-shot classification benchmark that tests language models:
+Welcome to the [RAFT benchmark](https://raft.elicit.org/)! RAFT is a few-shot classification benchmark that tests language models:
 
 - across multiple domains (lit review, tweets, customer interaction, etc.)
 - on economically valuable classification tasks (someone inherently cares about the task)
